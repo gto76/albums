@@ -9,13 +9,13 @@ import sys
 
 def main():
     readme = getFileContents("list-of-albums")
-    albumdata = readJson("albumdata.json")
+    albumData = readJson("albumData.json")
     listOfAlbums = getListOfAlbums(readme)
 
     noOfAlbums = len(listOfAlbums)
     out = str(noOfAlbums) + " " + getText(readme)
-    out += generateList(listOfAlbums, albumdata)
-    print(out)
+    out += generateList(listOfAlbums, albumData)
+    writeToFile('README.md', out)
 
 
 def getListOfAlbums(readme):
@@ -34,13 +34,34 @@ def getText(readme):
     return out
 
 
-def generateList(listOfAlbums, albumdata):
+def generateList(listOfAlbums, albumData):
     out = ""
     counter = len(listOfAlbums)
-    for album in listOfAlbums:
-        out += "#### " + str(counter) + " | " + album + "\n"
+    for albumName in listOfAlbums:
+        out += "#### " + str(counter) + " | " + albumName + "\n"
+        cover = getCover(albumName, albumData)
+        if cover:
+            out += cover
         counter -= 1
     return out
+
+
+def getCover(albumName, albumData):
+    imageLink = getImageLink(albumName, albumData)
+    if imageLink is None:
+        return
+    out = '<a href="https://www.youtube.com/results?search_query='
+    out += albumName.replace('-', '').replace(' ', '+') + 'full+album"> '
+    out += '<img src="' + imageLink
+    out += '" alt="cover"/></a>'
+    return out
+
+
+def getImageLink(albumName, albumData):
+    for album in albumData['albums']:
+        if albumName == album['name'] and album['image']:
+            return album['image']
+    return None
 
 
 # UTIL:
@@ -53,6 +74,12 @@ def getFileContents(fileName):
 def readJson(fileName):
     with open(fileName) as f:    
         return json.load(f)
+
+
+def writeToFile(fileName, contents):
+    f = open(fileName,'w')
+    f.write(contents) 
+    f.close()
 
 if __name__ == '__main__':
   main()

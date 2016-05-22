@@ -1,11 +1,11 @@
 {
   "albums": [
     { 
-      "title": "Nirvana - In Utero",
+      "name": "Nirvana - In Utero",
       "image": "http://assets.rollingstone.com/assets/images/list/c4b390f3b814e8ab8e6a4aa939f3632269ef8121.JPG"
     },
     { 
-      "title": "Stooges - Funhouse",
+      "name": "Stooges - Funhouse",
       "image": "http://assets.rollingstone.com/assets/images/list/72ab0de08f21bb55ef5f4dff665cf842cab0b3ac.jpg"
     }
   ]

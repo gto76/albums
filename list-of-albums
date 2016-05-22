@@ -51,7 +51,7 @@ Click on the cover to listen to the record on Youtube.
 #### gang of four - entertainment
 #### * television - marque moon
 
-Maybe
+-----
 -----
 #### tom waits - swordfishtrombone
 #### velvet underground - velvet underground
@@ -63,8 +63,3 @@ Maybe
 #### liars
 #### felix kubin
 
-Template
---------
-```
-<a href="https://www.youtube.com/results?search_query=stooges+funhouse+full+album"> <img src="http://assets.rollingstone.com/assets/images/list/72ab0de08f21bb55ef5f4dff665cf842cab0b3ac.jpg" alt="cover"/></a>
-```
