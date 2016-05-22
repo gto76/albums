@@ -16,7 +16,7 @@ Albums are rated by how well they sound, when listened from start to the end wit
 #### Majke - Razdor
 #### New Bomb Turks - !!Destroy-Oh-Boy!!
 #### Nirvana - In Utero
-<a href="https://github.com/gto76/comp-m2/"> <img src="http://assets.rollingstone.com/assets/images/list/c4b390f3b814e8ab8e6a4aa939f3632269ef8121.JPG" alt="cover"/></a>
+<a href="https://www.youtube.com/results?search_query=nirvana+in+utero+full+album"> <img src="http://assets.rollingstone.com/assets/images/list/c4b390f3b814e8ab8e6a4aa939f3632269ef8121.JPG" alt="cover"/></a>
 
 #### The Tiger Lillies - Death and the Bible
 #### Beastie Boys - Check Your Head
