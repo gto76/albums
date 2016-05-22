@@ -53,7 +53,7 @@ def getCover(albumName, albumData):
     out = '<a href="https://www.youtube.com/results?search_query='
     out += albumName.replace('-', '').replace(' ', '+') + 'full+album"> '
     out += '<img src="' + imageLink
-    out += '" alt="cover"/></a>'
+    out += '" alt="cover"/></a>\n'
     return out
 
 
