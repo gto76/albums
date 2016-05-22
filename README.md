@@ -13,7 +13,7 @@ Albums are rated by how well they sound, when listened from start to the end wit
 #### the Doors - Morrison Hotel
 #### Beck - Odelay
 #### Ramones - Ramones
-#### Majke - Razdo
+#### Majke - Razdor
 #### New Bomb Turks - !!Destroy-Oh-Boy!!
 #### Nirvana - In Utero
 #### The Tiger Lillies - Death and the Bible
@@ -22,6 +22,7 @@ Albums are rated by how well they sound, when listened from start to the end wit
 
 
 #### Stooges - Funhouse
+![cover](http://assets.rollingstone.com/assets/images/list/72ab0de08f21bb55ef5f4dff665cf842cab0b3ac.jpg)
 #### Captain Beefharth - Safe as Milk
 #### css - canai sen sexy
 #### slint - spiderland
