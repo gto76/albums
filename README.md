@@ -34,11 +34,11 @@ Click on the cover to listen to the record on Youtube.
 #### 18 | Primus - Brown Album
 #### 17 | Tom Waits - Swordfishtrombones
 #### 16 | Stooges - Funhouse
-<a href="https://www.youtube.com/results?search_query=Stooges++Funhousefull+album"> <img src="http://assets.rollingstone.com/assets/images/list/72ab0de08f21bb55ef5f4dff665cf842cab0b3ac.jpg" alt="cover"/></a>
+<a href="https://www.youtube.com/results?search_query=Stooges++Funhousefull+album"> <img src="http://assets.rollingstone.com/assets/images/list/72ab0de08f21bb55ef5f4dff665cf842cab0b3ac.jpg" alt="cover" width="206"/></a>
 #### 15 | Beastie Boys - Check Your Head
 #### 14 | The Tiger Lillies - Death and the Bible
 #### 13 | Nirvana - In Utero
-<a href="https://www.youtube.com/results?search_query=Nirvana++In+Uterofull+album"> <img src="http://assets.rollingstone.com/assets/images/list/c4b390f3b814e8ab8e6a4aa939f3632269ef8121.JPG" alt="cover"/></a>
+<a href="https://www.youtube.com/results?search_query=Nirvana++In+Uterofull+album"> <img src="http://assets.rollingstone.com/assets/images/list/c4b390f3b814e8ab8e6a4aa939f3632269ef8121.JPG" alt="cover" width="206"/></a>
 #### 12 | Joy Division - Unknown Pleasures
 #### 11 | A Tribe Called Quest - The Low End Theory
 #### 10 | New Bomb Turks - !!Destroy-Oh-Boy!!
