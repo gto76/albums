@@ -22,7 +22,7 @@ def getListOfAlbums(readme):
     listOfAlbums = []
     for line in readme:
         if line.startswith('####'):
-            listOfAlbums.append(line.strip("####").strip())
+            listOfAlbums.append(line.strip("####").replace('*', '').strip())
     return listOfAlbums
 
 
