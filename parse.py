@@ -38,7 +38,8 @@ def generateList(listOfAlbums, albumData):
     out = ""
     counter = len(listOfAlbums)
     for albumName in listOfAlbums:
-        out += "#### " + str(counter) + " | " + albumName + "\n"
+        formatedName = albumName.replace(" - ", ", '", 1) + "'"
+        out += "#### " + str(counter) + " | " + formatedName + "\n"
         cover = getCover(albumName, albumData)
         if cover:
             out += cover
