@@ -25,13 +25,25 @@ def main():
     # plt.ylabel('some numbers')
     # plt.show()
 
+    fig_size = plt.rcParams["figure.figsize"]
+     
+    # Prints: [8.0, 6.0]
+    print "Current size:", fig_size
+     
+    # Set figure width to 12 and height to 9
+    fig_size[0] = 20
+    fig_size[1] = 6
+    plt.rcParams["figure.figsize"] = fig_size
+
+
     y = albumsPerYear
     x = yearRange
-    width = 1/1.5
-    plt.bar(x, y, width, color="blue")
+    plt.bar(x, y, color="blue")
+
     plt.savefig('year-distribution.png')
 
     out += "Yearly distribution\n------\n![yearly graph](year-distribution.png)"
+
 
     writeToFile('README.md', out)
 
