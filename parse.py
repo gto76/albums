@@ -6,6 +6,7 @@
 import json
 import re
 import sys
+import matplotlib.pyplot as plt
 
 def main():
     readme = getFileContents("list-of-albums")
@@ -15,6 +16,23 @@ def main():
     noOfAlbums = len(listOfAlbums)
     out = str(noOfAlbums) + " " + getText(readme)
     out += generateList(listOfAlbums, albumData)
+
+    listOfYears = getYears(albumData)
+    albumsPerYear = getAlbumsPerYear(listOfYears)
+    yearRange = getYearRange(listOfYears)
+    # print([[1,1],[2,1],[3,2]])
+    # plt.plot([1,1],[2,1])
+    # plt.ylabel('some numbers')
+    # plt.show()
+
+    y = albumsPerYear
+    x = yearRange
+    width = 1/1.5
+    plt.bar(x, y, width, color="blue")
+    plt.savefig('year-distribution.png')
+
+    out += "Yearly distribution\n------\n![yearly graph](year-distribution.png)"
+
     writeToFile('README.md', out)
 
 
@@ -63,6 +81,28 @@ def getImageLink(albumName, albumData):
         if albumName == album['name'] and album['image']:
             return album['image']
     return None
+
+
+# GRAPH:
+
+def getYears(albumData):
+    listOfYears = []
+    for album in albumData['albums']:
+        if album['year']:
+            listOfYears.append(album['year'])
+    listOfYears.sort()
+    return listOfYears
+
+
+def getAlbumsPerYear(listOfYears):
+    out = []
+    for year in range(listOfYears[0], listOfYears[-1]+1):
+        out.append(listOfYears.count(year))
+    return out
+    
+
+def getYearRange(listOfYears):
+    return list(range(listOfYears[0], listOfYears[-1]+1))
 
 
 # UTIL:

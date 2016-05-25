@@ -83,3 +83,6 @@ Click on the cover to listen to the record on Youtube.
 <a href="https://www.youtube.com/results?search_query=The+Velvet+Underground++The+Velvet+Underground+&+Nicofull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/832/MI0000832128.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 1 | Rage Against the Machine, 'Rage Against the Machine'
 <a href="https://www.youtube.com/results?search_query=Rage+Against+the+Machine++Rage+Against+the+Machinefull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/673/MI0001673839.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+Yearly distribution
+------
+![yearly graph](year-distribution.png)
