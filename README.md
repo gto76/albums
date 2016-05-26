@@ -61,10 +61,10 @@ Click on the cover to listen to the record on Youtube.
 <a href="https://www.youtube.com/results?search_query=Nirvana++In+Uterofull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/700/MI0001700677.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 12 | Joy Division, 'Unknown Pleasures'
 <a href="https://www.youtube.com/results?search_query=Joy+Division++Unknown+Pleasuresfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/019/MI0000019367.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 11 | A Tribe Called Quest, 'The Low End Theory'
-<a href="https://www.youtube.com/results?search_query=A+Tribe+Called+Quest++The+Low+End+Theoryfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/719/MI0001719592.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 10 | New Bomb Turks, '!!Destroy-Oh-Boy!!'
+#### 11 | New Bomb Turks, '!!Destroy-Oh-Boy!!'
 <a href="https://www.youtube.com/results?search_query=New+Bomb+Turks++!!DestroyOhBoy!!full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/621/MI0000621692.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 10 | A Tribe Called Quest, 'The Low End Theory'
+<a href="https://www.youtube.com/results?search_query=A+Tribe+Called+Quest++The+Low+End+Theoryfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/719/MI0001719592.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 9 | Majke, 'Razdor'
 <a href="https://www.youtube.com/results?search_query=Majke++Razdorfull+album"> <img src="https://img.discogs.com/V0JfxfDZ3Rd53cVFqktN6DqWTUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1165725-1315848438.jpeg.jpg" alt="cover" height="306"/></a>
 #### 8 | Ramones, 'Ramones'
