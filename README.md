@@ -71,16 +71,16 @@ Click on the cover to listen to the record on Youtube.
 <a href="https://www.youtube.com/results?search_query=Ramones++Ramonesfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/709/MI0001709384.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 7 | Beck, 'Odelay'
 <a href="https://www.youtube.com/results?search_query=Beck++Odelayfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/710/MI0001710803.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 6 | The Doors, 'Morrison Hotel'
-<a href="https://www.youtube.com/results?search_query=The+Doors++Morrison+Hotelfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/259/MI0002259917.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 5 | LCD Soundsystem, 'Sound of Silver'
-<a href="https://www.youtube.com/results?search_query=LCD+Soundsystem++Sound+of+Silverfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/322/MI0002322851.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 4 | Tom Waits, 'Blue Valentine'
-<a href="https://www.youtube.com/results?search_query=Tom+Waits++Blue+Valentinefull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0003/589/MI0003589283.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 3 | The Doors, 'L.A. Woman'
-<a href="https://www.youtube.com/results?search_query=The+Doors++L.A.+Womanfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/563/MI0001563708.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 2 | The Velvet Underground, 'The Velvet Underground & Nico'
+#### 6 | The Velvet Underground, 'The Velvet Underground & Nico'
 <a href="https://www.youtube.com/results?search_query=The+Velvet+Underground++The+Velvet+Underground+&+Nicofull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/832/MI0000832128.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 5 | The Doors, 'Morrison Hotel'
+<a href="https://www.youtube.com/results?search_query=The+Doors++Morrison+Hotelfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/259/MI0002259917.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 4 | LCD Soundsystem, 'Sound of Silver'
+<a href="https://www.youtube.com/results?search_query=LCD+Soundsystem++Sound+of+Silverfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/322/MI0002322851.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 3 | Tom Waits, 'Blue Valentine'
+<a href="https://www.youtube.com/results?search_query=Tom+Waits++Blue+Valentinefull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0003/589/MI0003589283.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 2 | The Doors, 'L.A. Woman'
+<a href="https://www.youtube.com/results?search_query=The+Doors++L.A.+Womanfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/563/MI0001563708.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 1 | Rage Against the Machine, 'Rage Against the Machine'
 <a href="https://www.youtube.com/results?search_query=Rage+Against+the+Machine++Rage+Against+the+Machinefull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/673/MI0001673839.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 Yearly distribution
