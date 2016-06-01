@@ -8,6 +8,13 @@ import re
 import sys
 import matplotlib.pyplot as plt
 
+DRAW_YEARLY_DISTRIBUTION_PLOT = True
+
+
+###
+##  MAIN
+#
+
 def main():
     readme = getFileContents("list-of-albums")
     albumData = readJson("albumData.json")
@@ -17,29 +24,8 @@ def main():
     out = str(noOfAlbums) + " " + getText(readme)
     out += generateList(listOfAlbums, albumData)
 
-    listOfYears = getYears(albumData)
-    albumsPerYear = getAlbumsPerYear(listOfYears)
-    yearRange = getYearRange(listOfYears)
-    # print([[1,1],[2,1],[3,2]])
-    # plt.plot([1,1],[2,1])
-    # plt.ylabel('some numbers')
-    # plt.show()
-
-    fig_size = plt.rcParams["figure.figsize"]
-    # Set figure width to 12 and height to 9
-    fig_size[0] = 20
-    fig_size[1] = 6
-    plt.rcParams["figure.figsize"] = fig_size
-
-
-    y = albumsPerYear
-    x = yearRange
-    plt.bar(x, y, color="blue")
-
-    plt.savefig('year-distribution.png')
-
-    out += "Yearly distribution\n------\n![yearly graph](year-distribution.png)"
-
+    if DRAW_YEARLY_DISTRIBUTION_PLOT:
+        out = addYearlyDistributionPlot(out, albumData)
 
     writeToFile('README.md', out)
 
@@ -91,7 +77,30 @@ def getImageLink(albumName, albumData):
     return None
 
 
-# GRAPH:
+###
+##  PLOT
+#
+
+def addYearlyDistributionPlot(out, albumData):
+    listOfYears = getYears(albumData)
+    albumsPerYear = getAlbumsPerYear(listOfYears)
+    yearRange = getYearRange(listOfYears)
+
+    fig_size = plt.rcParams["figure.figsize"]
+    # Set figure width to 12 and height to 9
+    fig_size[0] = 20
+    fig_size[1] = 6
+    plt.rcParams["figure.figsize"] = fig_size
+
+    y = albumsPerYear
+    x = yearRange
+    plt.bar(x, y, color="blue")
+
+    plt.savefig('year-distribution.png')
+
+    out += "Yearly distribution\n------\n![yearly graph](year-distribution.png)"
+    return out
+
 
 def getYears(albumData):
     listOfYears = []
@@ -113,7 +122,9 @@ def getYearRange(listOfYears):
     return list(range(listOfYears[0], listOfYears[-1]+1))
 
 
-# UTIL:
+###
+##  UTIL
+#
 
 def getFileContents(fileName):
     with open(fileName) as f:

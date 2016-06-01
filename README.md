@@ -37,16 +37,16 @@ Click on the cover to listen to the record on Youtube.
 <a href="https://www.youtube.com/results?search_query=CSS++Cansei+de+Ser+Sexyfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/634/MI0000634709.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 23 | The Offspring, 'Smash'
 <a href="https://www.youtube.com/results?search_query=The+Offspring++Smashfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/055/MI0000055281.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 22 | Beck, 'Midnite Vultures'
-<a href="https://www.youtube.com/results?search_query=Beck++Midnite+Vulturesfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/623/MI0001623000.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 21 | Dicky B. Hardy, 'I Whistle - You Dance'
+#### 22 | Dicky B. Hardy, 'I Whistle - You Dance'
 <a href="https://www.youtube.com/results?search_query=Dicky+B.+Hardy++I+Whistle++You+Dancefull+album"> <img src="https://img.discogs.com/GcrAwgwsIKr39012EppCmmWtZ8M=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4057074-1353797305-8367.jpeg.jpg" alt="cover" height="306"/></a>
+#### 21 | Beck, 'Midnite Vultures'
+<a href="https://www.youtube.com/results?search_query=Beck++Midnite+Vulturesfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/623/MI0001623000.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 20 | St Germain, 'Tourist'
 <a href="https://www.youtube.com/results?search_query=St+Germain++Touristfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/424/MI0002424707.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 19 | Captain Beefharth, 'Safe as Milk'
-<a href="https://www.youtube.com/results?search_query=Captain+Beefharth++Safe+as+Milkfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/500/MI0002500372.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 18 | Primus, 'Brown Album'
+#### 19 | Primus, 'Brown Album'
 <a href="https://www.youtube.com/results?search_query=Primus++Brown+Albumfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/132/MI0000132683.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 18 | Captain Beefheart, 'Safe as Milk'
+<a href="https://www.youtube.com/results?search_query=Captain+Beefheart++Safe+as+Milkfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/500/MI0002500372.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 17 | Tom Waits, 'Swordfishtrombones'
 <a href="https://www.youtube.com/results?search_query=Tom+Waits++Swordfishtrombonesfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/752/MI0001752888.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 16 | Stooges, 'Funhouse'
