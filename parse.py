@@ -19,7 +19,11 @@ MAP_IMAGE = "worldmap.jpg"
 
 DRAW_YEARLY_DISTRIBUTION_PLOT = True
 DRAW_HEATMAP = True
+
 HEAT_DISTANCE_THRESHOLD = 5
+HEATMAP_ALPHA = 170
+ALPHA_CUTOFF = 0.15
+
 
 
 ###
@@ -57,15 +61,14 @@ def main():
 
 def addHeatMap(out, albumData):
     worldMap = Image.open(MAP_IMAGE)
+    worldMap = worldMap.convert("RGBA")
     width = worldMap.size[0]
     height = worldMap.size[1]
-    heatMatrix = generateHeatMap(albumData, width, height)
 
+    heatMatrix = generateHeatMap(albumData, width, height)
     heatImage = generateHeatImage(heatMatrix)
 
-    mask = Image.new('RGBA', worldMap.size, (0,0,0,123))
-    Image.composite(worldMap, heatImage, mask)
-
+    worldMap.paste(heatImage, (0, 0), heatImage)
     worldMap.show()
 
 
@@ -89,9 +92,16 @@ def generateHeatImage(heatMatrix):
                 r = rgb[0]
                 g = rgb[1]
                 b = rgb[2]
-                pixels[i, j] = (int(r), int(g), int(b), 255)
+                a = getAlpha(brightness)
+                pixels[i, j] = (int(r), int(g), int(b), int(a))
 
     return image
+
+
+def getAlpha(brightness):
+    if brightness > ALPHA_CUTOFF:
+        return HEATMAP_ALPHA
+    return brightness / ALPHA_CUTOFF * HEATMAP_ALPHA
 
 
 def getHeatMapColor2(minimum, maximum, value):
