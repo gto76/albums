@@ -60,27 +60,69 @@ def addHeatMap(out, albumData):
     width = worldMap.size[0]
     height = worldMap.size[1]
     heatMatrix = generateHeatMap(albumData, width, height)
-    image = generateHeatImage(heatMatrix)
-    image.show()
+
+    heatImage = generateHeatImage(heatMatrix)
+
+    mask = Image.new('RGBA', worldMap.size, (0,0,0,123))
+    Image.composite(worldMap, heatImage, mask)
+
+    worldMap.show()
 
 
 def generateHeatImage(heatMatrix):
     width = len(heatMatrix[0])
     height = len(heatMatrix)
-    # image = Image.new('RGB', (width, height), "black")
-    image = Image.open(MAP_IMAGE)
+    image = Image.new('RGBA', (width, height))
+    # image = Image.open(MAP_IMAGE)
     pixels = image.load()
 
     for i in range(image.size[0]):
         for j in range(image.size[1]):
-            brightness = int(heatMatrix[j][i] * 255) / 2
+            # brightness = int(heatMatrix[j][i] * 255) / 2
+            brightness = heatMatrix[j][i]
             if brightness > 0:
-                r = min(pixels[i, j][0] + brightness, 255)
-                g = min(pixels[i, j][1] + brightness, 255)
-                b = min(pixels[i, j][2] + brightness, 255)
-                pixels[i, j] = (int(r), int(g), int(b))
+                # rgb = getHeatMapColor2(0, 1, brightness)
+                rgb = getHeatMapColor(brightness)
+                # r = min(pixels[i, j][0] + rgb[0], 255)
+                # g = min(pixels[i, j][1] + rgb[1], 255)
+                # b = min(pixels[i, j][2] + rgb[2], 255)
+                r = rgb[0]
+                g = rgb[1]
+                b = rgb[2]
+                pixels[i, j] = (int(r), int(g), int(b), 255)
 
     return image
+
+
+def getHeatMapColor2(minimum, maximum, value):
+    minimum, maximum = float(minimum), float(maximum)
+    ratio = 2 * (value-minimum) / (maximum - minimum)
+    b = int(max(0, 255*(1 - ratio)))
+    r = int(max(0, 255*(ratio - 1)))
+    g = 255 - b - r
+    return r, g, b
+
+
+def getHeatMapColor(value):
+    NUM_COLORS = 4
+    color = [ [0.0,0.0,1.0], [0.0,1.0,0.0], [1.0,1.0,0.0], [1.0,0.0,0.0] ]
+
+    fractBetween = 0
+
+    if value <= 0:
+        idx1 = idx2 = 0
+    elif value >= 1:
+        idx1 = idx2 = NUM_COLORS-1
+    else:
+        value = value * (NUM_COLORS-1)
+        idx1  = math.floor(value)
+        idx2  = idx1+1
+        fractBetween = float(value - float(idx1))
+
+    red   = (color[idx2][0] - color[idx1][0])*fractBetween + color[idx1][0]
+    green = (color[idx2][1] - color[idx1][1])*fractBetween + color[idx1][1]
+    blue  = (color[idx2][2] - color[idx1][2])*fractBetween + color[idx1][2]
+    return (red*255, green*255, blue*255)
 
 
 def generateHeatMap(albumData, width, height):
