@@ -3,172 +3,318 @@
     { 
       "name": "Kyuss - Blues for the Red Sun",
       "year": 1992,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/303/MI0002303738.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/303/MI0002303738.jpg?partner=allrovi.com",
+      "producer": "Chris Goss",
+      "studio": "Sound City Studios",
+      "lat": 34.21702,
+      "long": -118.47039,
+      "console": "Neve"
     },
     { 
       "name": "Fugazi - Repeater",
       "year": 1990,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com",
+      "producer": "Ted Niceley",
+      "studio": "Inner Ear Studios",
+      "lat": 38.8439,
+      "long": -77.0895
     },
     { 
       "name": "Satyricon - Nemesis Divina",
       "year": 1996,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com",
+      "producer": "Sigurd Wongraven",
+      "studio": "Waterfall Studio",
+      "lat": 59.9197057,
+      "long": 10.7439582
     },
     { 
       "name": "Manu Chao - Clandestino",
       "year": 1998,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com",
+      "producer": "Renaud Letang",
+      "studio": "Studio Koogar Ferber",
+      "lat": 48.8673983,
+      "long": 2.4081315
     },
     { 
       "name": "NoMeansNo - One",
       "year": 2000,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/291/MI0000291870.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/291/MI0000291870.jpg?partner=allrovi.com",
+      "producer": "Nomeansno",
+      "studio": "Lemon Loaf Studios",
+      "lat": 49.2561055,
+      "long": -123.1939531
+    },
+    { 
+      "name": "Beck - Stereopathetic Soulmanure",
+      "year": 1994,
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/434/MI0001434223.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Pixies - Surfer Rosa",
       "year": 1988,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/009/MI0002009636.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/009/MI0002009636.jpg?partner=allrovi.com",
+      "producer": "Steve Albini",
+      "studio": "Q Division Studios",
+      "lat": 42.3403887,
+      "long": -71.0674338
     },
     { 
       "name": "Devo - Are We Not Men? We Are Devo!",
       "year": 1978,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/924/MI0000924801.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/924/MI0000924801.jpg?partner=allrovi.com",
+      "producer": "Brian Eno",
+      "studio": "Conny Plank Studio",
+      "lat": 50.855223,
+      "long": 7.276962
     },
     { 
       "name": "Tom Waits - Franks Wild Years",
       "year": 1987,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/939/MI0001939058.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/939/MI0001939058.jpg?partner=allrovi.com",
+      "producer": "Tom Waits",
+      "studio": "The Sound Factory",
+      "lat": 34.0988385,
+      "long": -118.3338425
     },
     { 
       "name": "Slint - Spiderland",
       "year": 1991,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/352/MI0002352780.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/352/MI0002352780.jpg?partner=allrovi.com",
+      "producer": "Brian Paulson",
+      "studio": "River North Records",
+      "lat": 41.8333925,
+      "long": -88.0123388
     },
     { 
       "name": "The Velvet Underground - The Velvet Underground",
       "year": 1969,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0003/811/MI0003811981.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0003/811/MI0003811981.jpg?partner=allrovi.com",
+      "producer": "The Velvet Underground",
+      "studio": "TTG Studios",
+      "lat": 34.0973421,
+      "long": -118.340488
     },
     { 
       "name": "CSS - Cansei de Ser Sexy",
       "year": 2005,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/634/MI0000634709.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/634/MI0000634709.jpg?partner=allrovi.com",
+      "producer": "Adriano Cintra",
+      "studio": "Jägermeister Bitte",
+      "lat": -23.6821604,
+      "long": -46.875491
     },
     { 
       "name": "The Offspring - Smash",
       "year": 1994,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/055/MI0000055281.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/055/MI0000055281.jpg?partner=allrovi.com",
+      "producer": "Thom Wilson",
+      "studio": "Track Record",
+      "lat": 34.1739,
+      "long": -118.379
     },
     { 
       "name": "Beck - Midnite Vultures",
       "year": 1999,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/623/MI0001623000.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/623/MI0001623000.jpg?partner=allrovi.com",
+      "producer": "Beck Hansen",
+      "studio": "Soft Studios",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Dicky B. Hardy - I Whistle - You Dance",
       "year": 1998,
-      "image": "https://img.discogs.com/GcrAwgwsIKr39012EppCmmWtZ8M=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4057074-1353797305-8367.jpeg.jpg"
+      "image": "https://img.discogs.com/GcrAwgwsIKr39012EppCmmWtZ8M=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4057074-1353797305-8367.jpeg.jpg",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "St Germain - Tourist",
       "year": 2000,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/424/MI0002424707.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/424/MI0002424707.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Captain Beefheart - Safe as Milk",
       "year": 1967,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/500/MI0002500372.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/500/MI0002500372.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Primus - Brown Album",
       "year": 1997,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/132/MI0000132683.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/132/MI0000132683.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Tom Waits - Swordfishtrombones",
       "year": 1983,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/752/MI0001752888.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/752/MI0001752888.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Stooges - Funhouse",
       "year": 1970,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/556/MI0001556281.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/556/MI0001556281.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Beastie Boys - Check Your Head",
       "year": 1992,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/702/MI0000702878.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/702/MI0000702878.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "The Tiger Lillies - Death and the Bible",
       "year": 2004,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/539/MI0001539465.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/539/MI0001539465.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Nirvana - In Utero",
       "year": 1993,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/700/MI0001700677.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/700/MI0001700677.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Joy Division - Unknown Pleasures",
       "year": 1979,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/019/MI0000019367.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/019/MI0000019367.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "A Tribe Called Quest - The Low End Theory",
       "year": 1991,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/719/MI0001719592.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/719/MI0001719592.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "New Bomb Turks - !!Destroy-Oh-Boy!!",
       "year": 1993,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/621/MI0000621692.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/621/MI0000621692.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Majke - Razdor",
       "year": 1993,
-      "image": "https://img.discogs.com/V0JfxfDZ3Rd53cVFqktN6DqWTUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1165725-1315848438.jpeg.jpg"
+      "image": "https://img.discogs.com/V0JfxfDZ3Rd53cVFqktN6DqWTUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1165725-1315848438.jpeg.jpg",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Ramones - Ramones",
       "year": 1976,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/709/MI0001709384.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/709/MI0001709384.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Beck - Odelay",
       "year": 1996,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/710/MI0001710803.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/710/MI0001710803.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "The Doors - Morrison Hotel",
       "year": 1970,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/259/MI0002259917.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/259/MI0002259917.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "LCD Soundsystem - Sound of Silver",
       "year": 2007,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/322/MI0002322851.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/322/MI0002322851.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Tom Waits - Blue Valentine",
       "year": 1978,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0003/589/MI0003589283.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0003/589/MI0003589283.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "The Doors - L.A. Woman",
       "year": 1971,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/563/MI0001563708.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/563/MI0001563708.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "The Velvet Underground - The Velvet Underground & Nico",
       "year": 1967,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/832/MI0000832128.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/832/MI0000832128.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     },
     { 
       "name": "Rage Against the Machine - Rage Against the Machine",
       "year": 1992,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/673/MI0001673839.jpg?partner=allrovi.com"
+      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/673/MI0001673839.jpg?partner=allrovi.com",
+      "producer": "",
+      "studio": "",
+      "lat": 100,
+      "long": 100
     }
   ]
 }
