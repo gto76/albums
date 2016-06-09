@@ -12,7 +12,6 @@ import sys
 
 from PIL import Image
 import matplotlib.pyplot as plt
-#from mpl_toolkits.basemap import Basemap
 
 
 MAP_IMAGE = "worldmap.jpg"
@@ -25,19 +24,11 @@ HEATMAP_ALPHA = 170
 ALPHA_CUTOFF = 0.15
 
 
-
 ###
 ##  MAIN
 #
 
 def main():
-    # setup Lambert Conformal basemap.
-    # set resolution=None to skip processing of boundary datasets.
-    # m = Basemap(width=12000000,height=9000000,projection='lcc',
-    #             resolution=None,lat_1=45.,lat_2=55,lat_0=50,lon_0=-107.)
-    # m.shadedrelief()
-    # plt.show()
-
     readme = getFileContents("list-of-albums")
     albumData = readJson("albumData.json")
     listOfAlbums = getListOfAlbums(readme)
@@ -52,7 +43,99 @@ def main():
     if DRAW_HEATMAP:
         out = addHeatMap(out, albumData)
 
-    # writeToFile('README.md', out)
+    writeToFile('README.md', out)
+
+
+def getListOfAlbums(readme):
+    listOfAlbums = []
+    for line in readme:
+        if line.startswith('####'):
+            listOfAlbums.append(line.strip("####").replace('*', '').strip())
+    return listOfAlbums
+
+
+def getText(readme):
+    out = ""
+    for line in readme:
+        if not line.startswith('####'):
+            out += line
+    return out
+
+
+def generateList(listOfAlbums, albumData):
+    out = ""
+    counter = len(listOfAlbums)
+    for albumName in listOfAlbums:
+        formatedName = albumName.replace(" - ", ", '", 1) + "'"
+        out += "#### " + str(counter) + " | " + formatedName + "\n"
+        cover = getCover(albumName, albumData)
+        if cover:
+            out += cover
+        counter -= 1
+    return out
+
+
+def getCover(albumName, albumData):
+    imageLink = getImageLink(albumName, albumData)
+    if imageLink is None:
+        return
+    out = '<a href="https://www.youtube.com/results?search_query='
+    out += albumName.replace('-', '').replace(' ', '+') + 'full+album"> '
+    out += '<img src="' + imageLink
+    out += '" alt="cover" height="306"/></a>\n'
+    return out
+
+
+def getImageLink(albumName, albumData):
+    for album in albumData['albums']:
+        if albumName == album['name'] and album['image']:
+            return album['image']
+    return None
+
+
+###
+##  PLOT
+#
+
+def addYearlyDistributionPlot(out, albumData):
+    listOfYears = getYears(albumData)
+    albumsPerYear = getAlbumsPerYear(listOfYears)
+    yearRange = getYearRange(listOfYears)
+
+    fig_size = plt.rcParams["figure.figsize"]
+    # Set figure width to 12 and height to 9
+    fig_size[0] = 20
+    fig_size[1] = 6
+    plt.rcParams["figure.figsize"] = fig_size
+
+    y = albumsPerYear
+    x = yearRange
+    plt.bar(x, y, color="blue")
+
+    plt.savefig('year-distribution.png')
+
+    out += "Yearly distribution\n------\n![yearly graph](year-distribution.png)"
+    return out
+
+
+def getYears(albumData):
+    listOfYears = []
+    for album in albumData['albums']:
+        if album['year']:
+            listOfYears.append(album['year'])
+    listOfYears.sort()
+    return listOfYears
+
+
+def getAlbumsPerYear(listOfYears):
+    out = []
+    for year in range(listOfYears[0], listOfYears[-1]+1):
+        out.append(listOfYears.count(year))
+    return out
+    
+
+def getYearRange(listOfYears):
+    return list(range(listOfYears[0], listOfYears[-1]+1))
 
 
 ###
@@ -69,7 +152,10 @@ def addHeatMap(out, albumData):
     heatImage = generateHeatImage(heatMatrix)
 
     worldMap.paste(heatImage, (0, 0), heatImage)
-    worldMap.show()
+    worldMap.save('heatmap.png')
+
+    out += "Heatmap\n------\n![heatmap](heatmap.png)"
+    return out
 
 
 def generateHeatImage(heatMatrix):
@@ -178,102 +264,6 @@ def distanceToHeat(distance):
     if distance > HEAT_DISTANCE_THRESHOLD:
         return 0
     return (HEAT_DISTANCE_THRESHOLD - distance) / HEAT_DISTANCE_THRESHOLD
-
-
-###
-##
-#
-
-def getListOfAlbums(readme):
-    listOfAlbums = []
-    for line in readme:
-        if line.startswith('####'):
-            listOfAlbums.append(line.strip("####").replace('*', '').strip())
-    return listOfAlbums
-
-
-def getText(readme):
-    out = ""
-    for line in readme:
-        if not line.startswith('####'):
-            out += line
-    return out
-
-
-def generateList(listOfAlbums, albumData):
-    out = ""
-    counter = len(listOfAlbums)
-    for albumName in listOfAlbums:
-        formatedName = albumName.replace(" - ", ", '", 1) + "'"
-        out += "#### " + str(counter) + " | " + formatedName + "\n"
-        cover = getCover(albumName, albumData)
-        if cover:
-            out += cover
-        counter -= 1
-    return out
-
-
-def getCover(albumName, albumData):
-    imageLink = getImageLink(albumName, albumData)
-    if imageLink is None:
-        return
-    out = '<a href="https://www.youtube.com/results?search_query='
-    out += albumName.replace('-', '').replace(' ', '+') + 'full+album"> '
-    out += '<img src="' + imageLink
-    out += '" alt="cover" height="306"/></a>\n'
-    return out
-
-
-def getImageLink(albumName, albumData):
-    for album in albumData['albums']:
-        if albumName == album['name'] and album['image']:
-            return album['image']
-    return None
-
-
-###
-##  PLOT
-#
-
-def addYearlyDistributionPlot(out, albumData):
-    listOfYears = getYears(albumData)
-    albumsPerYear = getAlbumsPerYear(listOfYears)
-    yearRange = getYearRange(listOfYears)
-
-    fig_size = plt.rcParams["figure.figsize"]
-    # Set figure width to 12 and height to 9
-    fig_size[0] = 20
-    fig_size[1] = 6
-    plt.rcParams["figure.figsize"] = fig_size
-
-    y = albumsPerYear
-    x = yearRange
-    plt.bar(x, y, color="blue")
-
-    plt.savefig('year-distribution.png')
-
-    out += "Yearly distribution\n------\n![yearly graph](year-distribution.png)"
-    return out
-
-
-def getYears(albumData):
-    listOfYears = []
-    for album in albumData['albums']:
-        if album['year']:
-            listOfYears.append(album['year'])
-    listOfYears.sort()
-    return listOfYears
-
-
-def getAlbumsPerYear(listOfYears):
-    out = []
-    for year in range(listOfYears[0], listOfYears[-1]+1):
-        out.append(listOfYears.count(year))
-    return out
-    
-
-def getYearRange(listOfYears):
-    return list(range(listOfYears[0], listOfYears[-1]+1))
 
 
 ###
