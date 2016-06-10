@@ -19,6 +19,7 @@ MAP_IMAGE = "worldmap.jpg"
 DRAW_YEARLY_DISTRIBUTION_PLOT = True
 DRAW_HEATMAP = True
 
+HEAT_FACTOR = 0.5
 HEAT_DISTANCE_THRESHOLD = 5
 HEATMAP_ALPHA = 180
 ALPHA_CUTOFF = 0.15
@@ -263,7 +264,8 @@ def getHeat(x, y, albumData):
 def distanceToHeat(distance):
     if distance > HEAT_DISTANCE_THRESHOLD:
         return 0
-    return (HEAT_DISTANCE_THRESHOLD - distance) / HEAT_DISTANCE_THRESHOLD
+    return (HEAT_DISTANCE_THRESHOLD - distance) / HEAT_DISTANCE_THRESHOLD * \
+            HEAT_FACTOR
 
 
 ###
