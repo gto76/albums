@@ -12,7 +12,6 @@ Click on the cover to listen to the record on Youtube.
 
 
 
-
 #### 35 | Kyuss, 'Blues for the Red Sun'
 <a href="https://www.youtube.com/results?search_query=Kyuss++Blues+for+the+Red+Sunfull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/303/MI0002303738.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 34 | Fugazi, 'Repeater'
@@ -21,10 +20,10 @@ Click on the cover to listen to the record on Youtube.
 <a href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divinafull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 32 | Manu Chao, 'Clandestino'
 <a href="https://www.youtube.com/results?search_query=Manu+Chao++Clandestinofull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 31 | NoMeansNo, 'One'
-<a href="https://www.youtube.com/results?search_query=NoMeansNo++Onefull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/291/MI0000291870.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 30 | Beck, 'Stereopathetic Soulmanure'
+#### 31 | Beck, 'Stereopathetic Soulmanure'
 <a href="https://www.youtube.com/results?search_query=Beck++Stereopathetic+Soulmanurefull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/434/MI0001434223.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 30 | NoMeansNo, 'One'
+<a href="https://www.youtube.com/results?search_query=NoMeansNo++Onefull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/291/MI0000291870.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 29 | Pixies, 'Surfer Rosa'
 <a href="https://www.youtube.com/results?search_query=Pixies++Surfer+Rosafull+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/009/MI0002009636.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 28 | Devo, 'Are We Not Men? We Are Devo!'
