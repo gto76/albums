@@ -81,7 +81,7 @@ def getCover(albumName, albumData):
     if imageLink is None:
         return
     out = '<a href="https://www.youtube.com/results?search_query='
-    out += albumName.replace('-', '').replace(' ', '+') + 'full+album"> '
+    out += albumName.replace('-', '').replace(' ', '+') + '+full+album"> '
     out += '<img src="' + imageLink
     out += '" alt="cover" height="306"/></a>\n'
     return out
