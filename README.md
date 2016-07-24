@@ -12,28 +12,28 @@ Click on the cover to listen to the record on Youtube.
 
 
 
-#### 35 | Kyuss, 'Blues for the Red Sun'
-<a href="https://www.youtube.com/results?search_query=Kyuss++Blues+for+the+Red+Sun+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/303/MI0002303738.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 34 | Fugazi, 'Repeater'
+#### 35 | Fugazi, 'Repeater'
 <a href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 33 | Satyricon, 'Nemesis Divina'
+#### 34 | Satyricon, 'Nemesis Divina'
 <a href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divina+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 32 | Manu Chao, 'Clandestino'
+#### 33 | Manu Chao, 'Clandestino'
 <a href="https://www.youtube.com/results?search_query=Manu+Chao++Clandestino+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 31 | Beck, 'Stereopathetic Soulmanure'
+#### 32 | Beck, 'Stereopathetic Soulmanure'
 <a href="https://www.youtube.com/results?search_query=Beck++Stereopathetic+Soulmanure+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/434/MI0001434223.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 30 | NoMeansNo, 'One'
+#### 31 | NoMeansNo, 'One'
 <a href="https://www.youtube.com/results?search_query=NoMeansNo++One+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/291/MI0000291870.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 29 | Pixies, 'Surfer Rosa'
+#### 30 | Pixies, 'Surfer Rosa'
 <a href="https://www.youtube.com/results?search_query=Pixies++Surfer+Rosa+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/009/MI0002009636.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 28 | Devo, 'Are We Not Men? We Are Devo!'
+#### 29 | Devo, 'Are We Not Men? We Are Devo!'
 <a href="https://www.youtube.com/results?search_query=Devo++Are+We+Not+Men?+We+Are+Devo!+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/924/MI0000924801.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 27 | Tom Waits, 'Franks Wild Years'
+#### 28 | Tom Waits, 'Franks Wild Years'
 <a href="https://www.youtube.com/results?search_query=Tom+Waits++Franks+Wild+Years+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/939/MI0001939058.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 26 | Slint, 'Spiderland'
+#### 27 | Slint, 'Spiderland'
 <a href="https://www.youtube.com/results?search_query=Slint++Spiderland+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/352/MI0002352780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 25 | The Velvet Underground, 'The Velvet Underground'
+#### 26 | The Velvet Underground, 'The Velvet Underground'
 <a href="https://www.youtube.com/results?search_query=The+Velvet+Underground++The+Velvet+Underground+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0003/811/MI0003811981.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 25 | Run the Jewels, 'Run the Jewels 2'
+<a href="https://www.youtube.com/results?search_query=Run+the+Jewels++Run+the+Jewels+2+full+album"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/RunTheJewelsRTJ2.jpg/220px-RunTheJewelsRTJ2.jpg" alt="cover" height="306"/></a>
 #### 24 | CSS, 'Cansei de Ser Sexy'
 <a href="https://www.youtube.com/results?search_query=CSS++Cansei+de+Ser+Sexy+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/634/MI0000634709.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 23 | The Offspring, 'Smash'
@@ -84,6 +84,6 @@ Click on the cover to listen to the record on Youtube.
 <a href="https://www.youtube.com/results?search_query=Rage+Against+the+Machine++Rage+Against+the+Machine+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/673/MI0001673839.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 Yearly distribution
 ------
-![yearly graph](year-distribution.png)Heatmap
+![yearly graph](year-distribution.png)Studio Locations
 ------
 ![heatmap](heatmap.png)

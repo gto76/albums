@@ -1,16 +1,6 @@
 {
   "albums": [
     { 
-      "name": "Kyuss - Blues for the Red Sun",
-      "year": 1992,
-      "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/303/MI0002303738.jpg?partner=allrovi.com",
-      "producer": "Chris Goss",
-      "studio": "Sound City Studios",
-      "lat": 34.21702,
-      "long": -118.47039,
-      "console": "Neve"
-    },
-    { 
       "name": "Fugazi - Repeater",
       "year": 1990,
       "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com",
@@ -99,6 +89,16 @@
       "studio": "TTG Studios",
       "lat": 34.0973421,
       "long": -118.340488
+    },
+    { 
+      "name": "Run the Jewels - Run the Jewels 2",
+      "year": 2014,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/RunTheJewelsRTJ2.jpg/220px-RunTheJewelsRTJ2.jpg",
+      "producer": "Chris Goss",
+      "studio": "Sound City Studios",
+      "lat": 34.21702,
+      "long": -118.47039,
+      "console": "Neve"
     },
     { 
       "name": "CSS - Cansei de Ser Sexy",

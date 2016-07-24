@@ -155,7 +155,7 @@ def addHeatMap(out, albumData):
     worldMap.paste(heatImage, (0, 0), heatImage)
     worldMap.save('heatmap.png')
 
-    out += "Heatmap\n------\n![heatmap](heatmap.png)"
+    out += "Studio Locations\n------\n![heatmap](heatmap.png)"
     return out
 
 
