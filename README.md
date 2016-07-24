@@ -32,10 +32,10 @@ Click on the cover to listen to the record on Youtube.
 <a href="https://www.youtube.com/results?search_query=Slint++Spiderland+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/352/MI0002352780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 26 | The Velvet Underground, 'The Velvet Underground'
 <a href="https://www.youtube.com/results?search_query=The+Velvet+Underground++The+Velvet+Underground+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0003/811/MI0003811981.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 25 | Run the Jewels, 'Run the Jewels 2'
-<a href="https://www.youtube.com/results?search_query=Run+the+Jewels++Run+the+Jewels+2+full+album"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/RunTheJewelsRTJ2.jpg/220px-RunTheJewelsRTJ2.jpg" alt="cover" height="306"/></a>
-#### 24 | CSS, 'Cansei de Ser Sexy'
+#### 25 | CSS, 'Cansei de Ser Sexy'
 <a href="https://www.youtube.com/results?search_query=CSS++Cansei+de+Ser+Sexy+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/634/MI0000634709.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 24 | Run the Jewels, 'Run the Jewels 2'
+<a href="https://www.youtube.com/results?search_query=Run+the+Jewels++Run+the+Jewels+2+full+album"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/RunTheJewelsRTJ2.jpg/220px-RunTheJewelsRTJ2.jpg" alt="cover" height="306"/></a>
 #### 23 | The Offspring, 'Smash'
 <a href="https://www.youtube.com/results?search_query=The+Offspring++Smash+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/055/MI0000055281.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 22 | Dicky B. Hardy, 'I Whistle - You Dance'
