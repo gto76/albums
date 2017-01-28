@@ -1,8 +1,8 @@
 35 Greatest Albums of All Time
 ===========================
-Albums are rated by how well they sound when listened to from beginning to the end without interruptions. That's the reason why there is no Nevermind by Nirvana or Rain Dogs by Tom Waits on the list, since they contain a few songs that ruin the flow of the record. There are also no live albums or compilations.
+Albums are rated by how well they sound **when listened to from beginning to the end without interruptions**. That's the reason why there is no Nevermind by Nirvana or Rain Dogs by Tom Waits on the list, since they contain a few songs that ruin the flow of the record. There are also no live albums or compilations.
 
-Click on the cover to listen to the record on Youtube.
+**Click on the cover to listen to the record on Youtube.**
 
 
 
