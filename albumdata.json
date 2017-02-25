@@ -240,9 +240,14 @@
       "year": 1993,
       "image": "https://img.discogs.com/V0JfxfDZ3Rd53cVFqktN6DqWTUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1165725-1315848438.jpeg.jpg",
       "producer": "Denis Mujadžić",
-      "studio": "studio Best",
+      "studio": "Studio Best",
       "lat": 45.8401099,
       "long": 15.823905
+    },
+    { 
+      "name": "Kendrick Lamar - To Pimp a Butterfly",
+      "year": 2015,
+      "image": "https://img.discogs.com/9Rbr0OefcjtkvCP4Qc6KtEZKlFM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6784584-1426553024-3350.jpeg.jpg"
     },
     { 
       "name": "Ramones - Ramones",
