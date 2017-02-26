@@ -1,4 +1,4 @@
-36 Greatest Albums of All Time
+37 Greatest Albums of All Time
 ===========================
 Albums are rated by how well they sound **when listened to from beginning to the end without interruptions**. That's the reason why there is no Nevermind by Nirvana or Rain Dogs by Tom Waits on the list, since they contain a few songs that ruin the flow of the record. There are also no live albums or compilations.
 
@@ -12,10 +12,12 @@ Albums are rated by how well they sound **when listened to from beginning to the
 
 
 
-#### 36 | Fugazi, 'Repeater'
+#### 37 | Fugazi, 'Repeater'
 <a href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 35 | Satyricon, 'Nemesis Divina'
+#### 36 | Satyricon, 'Nemesis Divina'
 <a href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divina+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+#### 35 | Nas, 'Illmatic'
+<a href="https://www.youtube.com/results?search_query=Nas++Illmatic+full+album"> <img src="https://img.discogs.com/EqGQ13tfpuZ7yBqtaFER7hbIxTw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-219517-1396284346-7382.jpeg.jpg" alt="cover" height="306"/></a>
 #### 34 | Manu Chao, 'Clandestino'
 <a href="https://www.youtube.com/results?search_query=Manu+Chao++Clandestino+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 #### 33 | Beck, 'Stereopathetic Soulmanure'
