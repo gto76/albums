@@ -7,7 +7,8 @@
       "producer": "Ted Niceley",
       "studio": "Inner Ear Studios",
       "lat": 38.8439,
-      "long": -77.0895
+      "long": -77.0895,
+      "slogan": "Ultimate day record"
     },
     { 
       "name": "Satyricon - Nemesis Divina",
@@ -16,14 +17,16 @@
       "producer": "Sigurd Wongraven",
       "studio": "Waterfall Studio",
       "lat": 59.9197057,
-      "long": 10.7439582
+      "long": 10.7439582,
+      "slogan": "Great fusion of garage and studio production sounds"
     },
     { 
       "name": "Nas - Illmatic",
       "year": 1994,
       "image": "https://img.discogs.com/EqGQ13tfpuZ7yBqtaFER7hbIxTw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-219517-1396284346-7382.jpeg.jpg",
       "lat": 40.7127, 
-      "long": -74.0059 
+      "long": -74.0059,
+      "slogan": "See cover"
     },
     { 
       "name": "Manu Chao - Clandestino",
@@ -32,7 +35,8 @@
       "producer": "Renaud Letang",
       "studio": "Studio Koogar Ferber",
       "lat": 48.8673983,
-      "long": 2.4081315
+      "long": 2.4081315,
+      "slogan": "This record should have electronic beats, but computer bug erased them"
     },
     { 
       "name": "NoMeansNo - One",
@@ -41,7 +45,8 @@
       "producer": "Nomeansno",
       "studio": "Lemon Loaf Studios",
       "lat": 49.2561055,
-      "long": -123.1939531
+      "long": -123.1939531,
+      "slogan": "Their least annoying record"
     },
     { 
       "name": "Beck - Stereopathetic Soulmanure",
@@ -50,7 +55,8 @@
       "producer": "Tom Grimley",
       "studio": "",
       "lat": 34.0201796,
-      "long": -118.6926069
+      "long": -118.6926069,
+      "slogan": "Ultimate lo-fi americana trash"
     },
     { 
       "name": "Pixies - Surfer Rosa",
@@ -59,7 +65,8 @@
       "producer": "Steve Albini",
       "studio": "Q Division Studios",
       "lat": 42.3403887,
-      "long": -71.0674338
+      "long": -71.0674338,
+      "slogan": "Drum room mics were delayed for 20 milliseconds"
     },
     { 
       "name": "Devo - Are We Not Men? We Are Devo!",
@@ -68,7 +75,8 @@
       "producer": "Brian Eno",
       "studio": "Conny Plank Studio",
       "lat": 50.855223,
-      "long": 7.276962
+      "long": 7.276962,
+      "slogan": "Wasted potential, but legendary material"
     },
     { 
       "name": "Tom Waits - Franks Wild Years",
@@ -77,7 +85,8 @@
       "producer": "Tom Waits",
       "studio": "The Sound Factory",
       "lat": 34.0988385,
-      "long": -118.3338425
+      "long": -118.3338425,
+      "slogan": "High on life"
     },
     { 
       "name": "Slint - Spiderland",
@@ -86,7 +95,8 @@
       "producer": "Brian Paulson",
       "studio": "River North Records",
       "lat": 41.8333925,
-      "long": -88.0123388
+      "long": -88.0123388,
+      "slogan": "More a song than an album"
     },
     { 
       "name": "The Velvet Underground - The Velvet Underground",
@@ -95,7 +105,8 @@
       "producer": "The Velvet Underground",
       "studio": "TTG Studios",
       "lat": 34.0973421,
-      "long": -118.340488
+      "long": -118.340488,
+      "slogan": "Ultimate night record"
     },
     { 
       "name": "Run the Jewels - Run the Jewels 2",
@@ -105,7 +116,8 @@
       "studio": "Sound City Studios",
       "lat": 34.21702,
       "long": -118.47039,
-      "console": "Neve"
+      "console": "Neve",
+      "slogan": "Hardcore hip hop that is not based on trap"
     },
     { 
       "name": "CSS - Cansei de Ser Sexy",
@@ -114,7 +126,8 @@
       "producer": "Adriano Cintra",
       "studio": "Jägermeister Bitte",
       "lat": -23.6821604,
-      "long": -46.875491
+      "long": -46.875491,
+      "slogan": "Fun and relatable"
     },
     { 
       "name": "The Offspring - Smash",
@@ -123,7 +136,8 @@
       "producer": "Thom Wilson",
       "studio": "Track Record",
       "lat": 34.1739,
-      "long": -118.379
+      "long": -118.379,
+      "slogan": "Best-selling independent label album of all time"
     },
     { 
       "name": "Beck - Midnite Vultures",
@@ -141,7 +155,8 @@
       "producer": "Aldo Ivančić",
       "studio": "",
       "lat": 46.05108,
-      "long": 14.50513
+      "long": 14.50513,
+      "slogan": "Having no bass player can make your music more exciting"
     },
     { 
       "name": "St Germain - Tourist",
@@ -177,7 +192,8 @@
       "producer": "Tom Waits",
       "studio": "Sunset Sound",
       "lat": 34.0977818,
-      "long": -118.3371115
+      "long": -118.3371115,
+      "slogan": "Probably the least 80's sounding record from the 80's"
     },
     { 
       "name": "Stooges - Funhouse",
@@ -195,7 +211,8 @@
       "producer": "Mario Caldato, Jr.",
       "studio": "G-Son Studios",
       "lat": 34.116389,
-      "long":  -118.256389
+      "long":  -118.256389,
+      "slogan": "Better than a sum of its parts"
     },
     { 
       "name": "The Tiger Lillies - Death and the Bible",
@@ -213,7 +230,8 @@
       "producer": "Steve Albini",
       "studio": "Pachyderm Studio",
       "lat": 44.506944,
-      "long": -92.905556
+      "long": -92.905556,
+      "slogan": "Drum room mics were delayed for 20 milliseconds"
     },
     { 
       "name": "Joy Division - Unknown Pleasures",
@@ -222,7 +240,8 @@
       "producer": "Martin Hannett",
       "studio": "Strawberry Studios",
       "lat": 53.4083,
-      "long": -2.1494
+      "long": -2.1494,
+      "slogan": "Always better than you remember"
     },
     { 
       "name": "A Tribe Called Quest - The Low End Theory",
@@ -231,7 +250,8 @@
       "producer": "Skeff Anselm",
       "studio": "Battery Studios",
       "lat": 40.6971478,
-      "long": -74.2605519
+      "long": -74.2605519,
+      "slogan": "They sound fresh even when rapping about pagers (telecommunications device that preceded cellphoness)"
     },
     { 
       "name": "New Bomb Turks - !!Destroy-Oh-Boy!!",
@@ -240,7 +260,8 @@
       "producer": "Mike Mariconda",
       "studio": "Coyote Studios",
       "lat": 40.692778, 
-      "long": -73.990278
+      "long": -73.990278,
+      "slogan": "High octane punk 'n' roll (too high on the list if you're not in the mood)"
     },
     { 
       "name": "Majke - Razdor",
@@ -254,7 +275,8 @@
     { 
       "name": "Kendrick Lamar - To Pimp a Butterfly",
       "year": 2015,
-      "image": "https://img.discogs.com/9Rbr0OefcjtkvCP4Qc6KtEZKlFM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6784584-1426553024-3350.jpeg.jpg"
+      "image": "https://img.discogs.com/9Rbr0OefcjtkvCP4Qc6KtEZKlFM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6784584-1426553024-3350.jpeg.jpg",
+      "slogan": "Masterpiece"
     },
     { 
       "name": "Ramones - Ramones",
@@ -263,7 +285,8 @@
       "producer": "Craig Leon",
       "studio": "Plaza Sound",
       "lat": 40.6971478,
-      "long": -74.2605519
+      "long": -74.2605519,
+      "slogan": "Divine intervention"
     },
     { 
       "name": "Beck - Odelay",
@@ -272,7 +295,8 @@
       "producer": "The Dust Brothers,",
       "studio": "",
       "lat": 34.0201796,
-      "long": -118.6926069
+      "long": -118.6926069,
+      "slogan": "Vinyl crackling noises were intentionally added."
     },
     { 
       "name": "The Doors - Morrison Hotel",
@@ -308,7 +332,8 @@
       "producer": "Bruce Botnick",
       "studio": "The Doors Workshop",
       "lat": 34.0558637,
-      "long": -118.4087364
+      "long": -118.4087364,
+      "slogan": "Rothchild's best record"
     },
     { 
       "name": "The Velvet Underground - The Velvet Underground & Nico",
