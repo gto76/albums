@@ -68,12 +68,22 @@ def generateList(listOfAlbums, albumData):
     counter = len(listOfAlbums)
     for albumName in listOfAlbums:
         formatedName = albumName.replace(" - ", ", '", 1) + "'"
-        out += "#### " + str(counter) + " | " + formatedName + "\n"
+        out += "### " + str(counter) + " | " + formatedName + "  \n"
+        slogan = getSlogan(albumName, albumData)
+        if slogan:
+            out += '**_"'+slogan+'"_**  \n' 
         cover = getCover(albumName, albumData)
         if cover:
             out += cover
         counter -= 1
     return out
+
+
+def getSlogan(albumName, albumData):
+    for album in albumData['albums']:
+        if albumName == album['name'] and album['slogan']:
+            return album['slogan']
+    return None
 
 
 def getCover(albumName, albumData):
