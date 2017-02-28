@@ -12,8 +12,9 @@ Albums are rated by how well they sound **when listened to from beginning to the
 
 
 
-### 37 | Fugazi, 'Repeater'  
+### 37 | Fugazi, 'Repeater'
 **_"Ultimate day record"_**  
+  
 <a href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 36 | Satyricon, 'Nemesis Divina'  
 **_"Great fusion of garage and studio production sounds"_**  
