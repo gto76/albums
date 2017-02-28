@@ -13,35 +13,35 @@ Albums are rated by how well they sound **when listened to from beginning to the
 
 
 ### 37 | Fugazi, 'Repeater'  
-_"Ultimate day record"_  
+_» Ultimate day record «_  
   
 <a href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 36 | Satyricon, 'Nemesis Divina'  
-_"Great fusion of garage and studio production sounds"_  
+_» Great fusion of garage and studio production sounds «_  
   
 <a href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divina+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 35 | Nas, 'Illmatic'  
-_"See cover"_  
+_» See cover «_  
   
 <a href="https://www.youtube.com/results?search_query=Nas++Illmatic+full+album"> <img src="https://img.discogs.com/EqGQ13tfpuZ7yBqtaFER7hbIxTw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-219517-1396284346-7382.jpeg.jpg" alt="cover" height="306"/></a>
 ### 34 | Manu Chao, 'Clandestino'  
-_"Should have electronic beats, but computer bug erased them"_  
+_“Should have electronic beats, but computer bug erased them”_  
   
 <a href="https://www.youtube.com/results?search_query=Manu+Chao++Clandestino+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 33 | Beck, 'Stereopathetic Soulmanure'  
-_"Proper lo-fi americana trash"_  
+_“Proper lo-fi americana trash”_  
   
 <a href="https://www.youtube.com/results?search_query=Beck++Stereopathetic+Soulmanure+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/434/MI0001434223.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 32 | NoMeansNo, 'One'  
-_"Their least annoying record"_  
+_'Their least annoying record'_  
   
 <a href="https://www.youtube.com/results?search_query=NoMeansNo++One+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/291/MI0000291870.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 31 | Pixies, 'Surfer Rosa'  
-_"Drum room mics were delayed for 20 milliseconds"_  
+_>>Drum room mics were delayed for 20 milliseconds<< _  
   
 <a href="https://www.youtube.com/results?search_query=Pixies++Surfer+Rosa+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/009/MI0002009636.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 30 | Devo, 'Are We Not Men? We Are Devo!'  
-_"Wasted potential, but legendary material"_  
+_>> Wasted potential, but legendary material << _  
   
 <a href="https://www.youtube.com/results?search_query=Devo++Are+We+Not+Men?+We+Are+Devo!+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/924/MI0000924801.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 29 | Tom Waits, 'Franks Wild Years'  
