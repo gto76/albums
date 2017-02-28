@@ -13,15 +13,15 @@ Albums are rated by how well they sound **when listened to from beginning to the
 
 
 ### 37 | Fugazi, 'Repeater'  
-_"Ultimate day record"_  
+_Ultimate day record_  
   
 <a href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 36 | Satyricon, 'Nemesis Divina'  
-_"Great fusion of garage and studio production sounds"_  
+_Great fusion of garage and studio production sounds_  
   
 <a href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divina+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 35 | Nas, 'Illmatic'  
-_"See cover"_  
+_See cover_  
   
 <a href="https://www.youtube.com/results?search_query=Nas++Illmatic+full+album"> <img src="https://img.discogs.com/EqGQ13tfpuZ7yBqtaFER7hbIxTw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-219517-1396284346-7382.jpeg.jpg" alt="cover" height="306"/></a>
 ### 34 | Manu Chao, 'Clandestino'  
