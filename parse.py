@@ -98,6 +98,14 @@ def getCover(albumName, albumData):
     return out
 
 
+def getYouTubeLink(albumName):
+    out = '<a href="https://www.youtube.com/results?search_query=' \
+          + albumName.replace('-', '').replace(' ', '+') + '+full+album"> '
+    if albumName == 'Dicky B. Hardy - I Whistle - You Dance':
+        out = '<a href="https://youtu.be/8iwk7_O97Pw?list=PLaeyhQtn9sJxmrSPAMmmLd4H35jAmFcF1">'
+    return out
+
+
 def getImageLink(albumName, albumData):
     for album in albumData['albums']:
         if albumName == album['name'] and album['image']:
