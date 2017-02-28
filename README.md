@@ -12,33 +12,30 @@ Albums are rated by how well they sound **when listened to from beginning to the
 
 
 
-#### 37 | Fugazi, 'Repeater'  
+### 37 | Fugazi, 'Repeater'  
 _“Ultimate day record”_  
   
 <a href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 36 | Satyricon, 'Nemesis Divina'  
+### 36 | Satyricon, 'Nemesis Divina'  
 _“Great fusion of garage and studio production sounds”_  
   
 <a href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divina+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-#### 35 | Nas, 'Illmatic'  
+### 35 | Nas, 'Illmatic'  
 _“See cover”_  
   
 <a href="https://www.youtube.com/results?search_query=Nas++Illmatic+full+album"> <img src="https://img.discogs.com/EqGQ13tfpuZ7yBqtaFER7hbIxTw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-219517-1396284346-7382.jpeg.jpg" alt="cover" height="306"/></a>
-#### 34 | Manu Chao, 'Clandestino'  
+### 34 | Manu Chao, 'Clandestino'  
 _“Should have electronic beats, but computer bug erased them”_  
   
-<a href="https://www.youtube.com/results?search_query=Manu+Chao++Clandestino+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>  
-  
-#### 33 | Beck, 'Stereopathetic Soulmanure'  
+<a href="https://www.youtube.com/results?search_query=Manu+Chao++Clandestino+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
+### 33 | Beck, 'Stereopathetic Soulmanure'  
 _“Proper lo-fi americana trash”_  
   
 <a href="https://www.youtube.com/results?search_query=Beck++Stereopathetic+Soulmanure+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/434/MI0001434223.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-  
-#### 32 | NoMeansNo, 'One'  
+### 32 | NoMeansNo, 'One'  
 _“Their least annoying record”_  
   
-<a href="https://www.youtube.com/results?search_query=NoMeansNo++One+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/291/MI0000291870.jpg?partner=allrovi.com" alt="cover" height="306"/></a>  
-  
+<a href="https://www.youtube.com/results?search_query=NoMeansNo++One+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/291/MI0000291870.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 31 | Pixies, 'Surfer Rosa'  
 _“Drum room mics were delayed for 20 milliseconds”_  
   
@@ -100,7 +97,7 @@ _“Stooges at their raw, sweaty, howling peak”_
   
 <a href="https://www.youtube.com/results?search_query=Stooges++Funhouse+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/556/MI0001556281.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 16 | Beastie Boys, 'Check Your Head'  
-_“Better than a sum of its parts”_  
+_“Better than the sum of its parts”_  
   
 <a href="https://www.youtube.com/results?search_query=Beastie+Boys++Check+Your+Head+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/702/MI0000702878.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 15 | The Tiger Lillies, 'Death and the Bible'  
@@ -120,7 +117,7 @@ _“High octane punk 'n' roll (too high on the list if you're not in the mood)�
   
 <a href="https://www.youtube.com/results?search_query=New+Bomb+Turks++!!DestroyOhBoy!!+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/621/MI0000621692.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 11 | A Tribe Called Quest, 'The Low End Theory'  
-_“They sound fresh even when rapping about pagers (telecommunications device that preceded cellphones)”_  
+_“They sound fresh even when rapping about pagers”_  
   
 <a href="https://www.youtube.com/results?search_query=A+Tribe+Called+Quest++The+Low+End+Theory+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/719/MI0001719592.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 10 | Majke, 'Razdor'  
