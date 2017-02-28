@@ -71,7 +71,7 @@ _“Best-selling independent label album of all time”_
 ### 23 | Dicky B. Hardy, 'I Whistle - You Dance'  
 _“Having no bass player can make your music more exciting”_  
   
-<a href="https://www.youtube.com/results?search_query=Dicky+B.+Hardy++I+Whistle++You+Dance+full+album"> <img src="https://img.discogs.com/GcrAwgwsIKr39012EppCmmWtZ8M=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4057074-1353797305-8367.jpeg.jpg" alt="cover" height="306"/></a>
+<a href="https://youtu.be/8iwk7_O97Pw?list=PLaeyhQtn9sJxmrSPAMmmLd4H35jAmFcF1"><img src="https://img.discogs.com/GcrAwgwsIKr39012EppCmmWtZ8M=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4057074-1353797305-8367.jpeg.jpg" alt="cover" height="306"/></a>
 ### 22 | Beck, 'Midnite Vultures'  
 _“Hitting the L.A.'s main nerve”_  
   
