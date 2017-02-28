@@ -36,7 +36,7 @@
       "studio": "Studio Koogar Ferber",
       "lat": 48.8673983,
       "long": 2.4081315,
-      "slogan": "This record should have electronic beats, but computer bug erased them"
+      "slogan": "Should have electronic beats, but computer bug erased them"
     },
     { 
       "name": "NoMeansNo - One",
@@ -56,7 +56,7 @@
       "studio": "",
       "lat": 34.0201796,
       "long": -118.6926069,
-      "slogan": "Ultimate lo-fi americana trash"
+      "slogan": "Proper lo-fi americana trash"
     },
     { 
       "name": "Pixies - Surfer Rosa",
@@ -146,7 +146,8 @@
       "producer": "Beck Hansen",
       "studio": "Soft Studios",
       "lat": 34.0201796,
-      "long": -118.6926069
+      "long": -118.6926069,
+      "slogan": "Hitting the L.A.'s main nerve"
     },
     { 
       "name": "Dicky B. Hardy - I Whistle - You Dance",
@@ -165,7 +166,8 @@
       "producer": "Ludovic Navarre",
       "studio": "Magic House Studio",
       "lat": 48.8961,
-      "long": 2.1517
+      "long": 2.1517,
+      "slogan": "A synthesis of electronics with jazz soloing"
     },
     { 
       "name": "Captain Beefheart - Safe as Milk",
@@ -174,7 +176,8 @@
       "producer": "Richard Perry",
       "studio": "RCA Studios",
       "lat": 34.0983311,
-      "long": -118.3305215
+      "long": -118.3305215,
+      "slogan": "Beefheart for the masses"
     },
     { 
       "name": "Primus - Brown Album",
@@ -183,7 +186,8 @@
       "producer": "Primus",
       "studio": "Rancho Relaxo",
       "lat": 38.4075,
-      "long": -122.948333
+      "long": -122.948333,
+      "slogan": "Kalamazoo is a real place in Michigan"
     },
     { 
       "name": "Tom Waits - Swordfishtrombones",
@@ -202,7 +206,8 @@
       "producer": "Don Gallucci",
       "studio": "Elektra Sound Recorders",
       "lat": 34.088332,
-      "long": -118.378272
+      "long": -118.378272,
+      "slogan": "Stooges at their raw, sweaty, howling peak"
     },
     { 
       "name": "Beastie Boys - Check Your Head",
@@ -218,10 +223,11 @@
       "name": "The Tiger Lillies - Death and the Bible",
       "year": 2004,
       "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0001/539/MI0001539465.jpg?partner=allrovi.com",
-      "producer": "",
-      "studio": "",
-      "lat": 51.5283063,
-      "long": -0.382463
+      "producer": "Stephan Wulff",
+      "studio": "O Ton Studio",
+      "lat": 53.5361232,
+      "long": 10.0312705,
+      "slogan": "Weimar, Brecht, vaudeville, the whole shtick"
     },
     { 
       "name": "Nirvana - In Utero",
@@ -251,7 +257,7 @@
       "studio": "Battery Studios",
       "lat": 40.6971478,
       "long": -74.2605519,
-      "slogan": "They sound fresh even when rapping about pagers (telecommunications device that preceded cellphoness)"
+      "slogan": "They sound fresh even when rapping about pagers (telecommunications device that preceded cellphones)"
     },
     { 
       "name": "New Bomb Turks - !!Destroy-Oh-Boy!!",
@@ -270,7 +276,8 @@
       "producer": "Denis Mujadžić",
       "studio": "Studio Best",
       "lat": 45.8401099,
-      "long": 15.823905
+      "long": 15.823905,
+      "slogan": "Cult Croatian Rock band from Vinkovci"
     },
     { 
       "name": "Kendrick Lamar - To Pimp a Butterfly",
@@ -296,7 +303,7 @@
       "studio": "",
       "lat": 34.0201796,
       "long": -118.6926069,
-      "slogan": "Vinyl crackling noises were intentionally added."
+      "slogan": "Vinyl crackling noises were added intentionally"
     },
     { 
       "name": "The Doors - Morrison Hotel",
@@ -305,7 +312,8 @@
       "producer": "Paul A. Rothchild",
       "studio": "Elektra Sound Recorders",
       "lat": 34.0885198,
-      "long": -118.3786205
+      "long": -118.3786205,
+      "slogan": "Rothchild's best record"
     },
     { 
       "name": "LCD Soundsystem - Sound of Silver",
@@ -314,7 +322,8 @@
       "producer": "The DFA",
       "studio": "Long View Farm Studios",
       "lat": 42.294476,
-      "long": -72.088331
+      "long": -72.088331,
+      "slogan": "Dance-rock for failed hipsters"
     },
     { 
       "name": "Tom Waits - Blue Valentine",
@@ -323,7 +332,8 @@
       "producer": "Bones Howe",
       "studio": "Filmways/Heider Recording",
       "lat": 37.783333,
-      "long": -122.416667
+      "long": -122.416667,
+      "slogan": "Howe's best record"
     },
     { 
       "name": "The Doors - L.A. Woman",
@@ -333,7 +343,7 @@
       "studio": "The Doors Workshop",
       "lat": 34.0558637,
       "long": -118.4087364,
-      "slogan": "Rothchild's best record"
+      "slogan": "Recorded live at their rehearsal space in six days with Elvis's bass player"
     },
     { 
       "name": "The Velvet Underground - The Velvet Underground & Nico",
@@ -342,7 +352,8 @@
       "producer": "Tom Wilson",
       "studio": "Scepter Studios",
       "lat": 40.6971478,
-      "long": -74.2605519
+      "long": -74.2605519,
+      "slogan": "Early copies had a cover with peelable banana"
     },
     { 
       "name": "Rage Against the Machine - Rage Against the Machine",
@@ -351,7 +362,8 @@
       "producer": "Garth Richardson",
       "studio": "Sound City",
       "lat": 34.2168605,
-      "long": -118.4723689
+      "long": -118.4723689,
+      "slogan": "No samples, keyboards or synthesizers were used in the making of this record"
     }
   ]
 }
