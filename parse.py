@@ -71,7 +71,7 @@ def generateList(listOfAlbums, albumData):
         out += "### " + str(counter) + " | " + formatedName + "  \n"
         slogan = getSlogan(albumName, albumData)
         if slogan:
-            out += '**_"'+slogan+'"_**  \n' 
+            out += '**_"'+slogan+'"_**  \n  \n' 
         cover = getCover(albumName, albumData)
         if cover:
             out += cover
