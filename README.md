@@ -13,23 +13,23 @@ Albums are rated by how well they sound **when listened to from beginning to the
 
 
 ### 37 | Fugazi, 'Repeater'  
-_Ultimate day record_  
+_»Ultimate day record«_  
   
 <a href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 36 | Satyricon, 'Nemesis Divina'  
-_Great fusion of garage and studio production sounds_  
+_»Great fusion of garage and studio production sounds«_  
   
 <a href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divina+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0004/056/MI0004056459.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 35 | Nas, 'Illmatic'  
-_See cover_  
+_» See cover «_  
   
 <a href="https://www.youtube.com/results?search_query=Nas++Illmatic+full+album"> <img src="https://img.discogs.com/EqGQ13tfpuZ7yBqtaFER7hbIxTw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-219517-1396284346-7382.jpeg.jpg" alt="cover" height="306"/></a>
 ### 34 | Manu Chao, 'Clandestino'  
-_'Should have electronic beats, but computer bug erased them'_  
+_“Should have electronic beats, but computer bug erased them”_  
   
 <a href="https://www.youtube.com/results?search_query=Manu+Chao++Clandestino+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0002/533/MI0002533780.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 33 | Beck, 'Stereopathetic Soulmanure'  
-_'Proper lo-fi americana trash'_  
+_“Proper lo-fi americana trash”_  
   
 <a href="https://www.youtube.com/results?search_query=Beck++Stereopathetic+Soulmanure+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/434/MI0001434223.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 32 | NoMeansNo, 'One'  
