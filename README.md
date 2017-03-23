@@ -113,7 +113,7 @@ _“Always better than you remember”_
   
 <a href="https://www.youtube.com/results?search_query=Joy+Division++Unknown+Pleasures+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/019/MI0000019367.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 12 | New Bomb Turks, '!!Destroy-Oh-Boy!!'  
-_“High octane punk 'n' roll (too high on the list if you're not in the mood)”_  
+_“High octane punk 'n' roll”_  
   
 <a href="https://www.youtube.com/results?search_query=New+Bomb+Turks++!!DestroyOhBoy!!+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0000/621/MI0000621692.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
 ### 11 | A Tribe Called Quest, 'The Low End Theory'  
