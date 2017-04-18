@@ -133,7 +133,7 @@ def addYearlyDistributionPlot(out, albumData):
 
     plt.savefig('year-distribution.png')
 
-    out += "Yearly distribution\n------\n![yearly graph](year-distribution.png)"
+    out += "\nRelease Dates\n------\n![yearly graph](year-distribution.png)"
     return out
 
 
@@ -173,7 +173,7 @@ def addHeatMap(out, albumData):
     worldMap.paste(heatImage, (0, 0), heatImage)
     worldMap.save('heatmap.png')
 
-    out += "Studio Locations\n------\n![heatmap](heatmap.png)"
+    out += "\nStudio Locations\n------\n![heatmap](heatmap.png)"
     return out
 
 
