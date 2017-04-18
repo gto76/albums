@@ -160,8 +160,11 @@ _“Recorded live at their rehearsal space in six days with Elvis's bass player�
 _“No samples, keyboards or synthesizers were used in the making of this record”_  
   
 <a href="https://www.youtube.com/results?search_query=Rage+Against+the+Machine++Rage+Against+the+Machine+full+album"> <img src="http://cps-static.rovicorp.com/3/JPG_500/MI0001/673/MI0001673839.jpg?partner=allrovi.com" alt="cover" height="306"/></a>
-Yearly distribution
+
+Release Dates
 ------
-![yearly graph](year-distribution.png)Studio Locations
+![yearly graph](year-distribution.png)
+
+Studio Locations
 ------
 ![heatmap](heatmap.png)
