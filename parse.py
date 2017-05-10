@@ -15,6 +15,9 @@ import matplotlib.pyplot as plt
 
 
 MAP_IMAGE = "worldmap.jpg"
+HTML_TOP = "html-top.html"
+HTML_TEXT = "html-text.html"
+HTML_BOTTOM = "html-bottom.html"
 
 DRAW_YEARLY_DISTRIBUTION_PLOT = True
 DRAW_HEATMAP = True
@@ -33,18 +36,46 @@ def main():
     readme = getFileContents("list-of-albums")
     albumData = readJson("albumData.json")
     listOfAlbums = getListOfAlbums(readme)
-
     noOfAlbums = len(listOfAlbums)
+
+    generate_release_dates_chart(albumData)
+    generate_heat_map(albumData)
+
+    out_md = generate_md_file(readme, albumData, listOfAlbums, noOfAlbums)
+    out_html = generate_html_file(albumData, listOfAlbums, noOfAlbums)
+
+    writeToFile('README.md', out_md)
+    writeToFile('index.html', out_html)
+
+
+def generate_md_file(readme, albumData, listOfAlbums, noOfAlbums):
     out = str(noOfAlbums) + " " + getText(readme)
     out += generateList(listOfAlbums, albumData)
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
-        out = addYearlyDistributionPlot(out, albumData)
+        out += "\nRelease Dates\n------\n![yearly graph](year-distribution.png)"
 
     if DRAW_HEATMAP:
-        out = addHeatMap(out, albumData)
+        out += "\nStudio Locations\n------\n![heatmap](heatmap.png)"
 
-    writeToFile('README.md', out)
+    return out
+
+
+def generate_html_file(albumData, listOfAlbums, noOfAlbums):
+    out = ''.join(getFileContents(HTML_TOP))
+
+    out += str(noOfAlbums) + " " + '\n'.join(getFileContents(HTML_TEXT))
+    out += generate_html_list(listOfAlbums, albumData)
+
+    if DRAW_YEARLY_DISTRIBUTION_PLOT:
+        out += '<h2><a href="#release-dates" name="release-dates">#</a>Release Dates</h2>\n'
+        out += '<img src="year-distribution.png" alt="Release dates" width="920"/>\n'
+
+    if DRAW_HEATMAP:
+        out += '<h2><a href="#studio-locations" name="studio-locations">#</a>Studio Locations</h2>\n'
+        out += '<img src="heatmap.png" alt="Studio Locations" width="920"/>\n'
+
+    return out + ''.join(getFileContents(HTML_BOTTOM))
 
 
 def getListOfAlbums(readme):
@@ -80,6 +111,25 @@ def generateList(listOfAlbums, albumData):
     return out
 
 
+def generate_html_list(listOfAlbums, albumData):
+    out = ""
+    counter = len(listOfAlbums)
+    for albumName in listOfAlbums:
+        formatedName = albumName.replace(" - ", ", '", 1) + "'"
+        album_name_abr = albumName.replace(' ', '')
+        start = '<h2><a href="#'+album_name_abr+'" name="' \
+                + album_name_abr+'">#</a>'
+        out += start + str(counter) + " | " + formatedName + "</h2>\n"
+        slogan = getSlogan(albumName, albumData)
+        if slogan:
+            out += '<i>' + slogan + '</i><br><br>\n'
+        cover = getCover(albumName, albumData)
+        if cover:
+            out += cover
+        counter -= 1
+    return out
+
+
 def getSlogan(albumName, albumData):
     for album in albumData['albums']:
         if albumName == album['name'] and album['slogan']:
@@ -98,10 +148,10 @@ def getCover(albumName, albumData):
 
 
 def getYouTubeLink(albumName):
-    out = '<a href="https://www.youtube.com/results?search_query=' \
+    out = '<a target="_blank" href="https://www.youtube.com/results?search_query=' \
           + albumName.replace('-', '').replace(' ', '+') + '+full+album"> '
     if 'Dicky B. Hardy' in albumName:
-        out = '<a href="https://youtu.be/8iwk7_O97Pw?list=PLaeyhQtn9sJxmrSPAMmmLd4H35jAmFcF1">'
+        out = '<a target="_blank" href="https://youtu.be/8iwk7_O97Pw?list=PLaeyhQtn9sJxmrSPAMmmLd4H35jAmFcF1">'
     return out
 
 
@@ -117,6 +167,11 @@ def getImageLink(albumName, albumData):
 #
 
 def addYearlyDistributionPlot(out, albumData):
+    out += "\nRelease Dates\n------\n![yearly graph](year-distribution.png)"
+    return out
+
+
+def generate_release_dates_chart(albumData):
     listOfYears = getYears(albumData)
     albumsPerYear = getAlbumsPerYear(listOfYears)
     yearRange = getYearRange(listOfYears)
@@ -132,9 +187,6 @@ def addYearlyDistributionPlot(out, albumData):
     plt.bar(x, y, color="blue")
 
     plt.savefig('year-distribution.png')
-
-    out += "\nRelease Dates\n------\n![yearly graph](year-distribution.png)"
-    return out
 
 
 def getYears(albumData):
@@ -161,7 +213,7 @@ def getYearRange(listOfYears):
 ## HEAT
 #
 
-def addHeatMap(out, albumData):
+def generate_heat_map(albumData):
     worldMap = Image.open(MAP_IMAGE)
     worldMap = worldMap.convert("RGBA")
     width = worldMap.size[0]
@@ -172,9 +224,6 @@ def addHeatMap(out, albumData):
 
     worldMap.paste(heatImage, (0, 0), heatImage)
     worldMap.save('heatmap.png')
-
-    out += "\nStudio Locations\n------\n![heatmap](heatmap.png)"
-    return out
 
 
 def generateHeatImage(heatMatrix):
