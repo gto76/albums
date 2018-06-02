@@ -21,7 +21,7 @@ _“Recorded live at their rehearsal space in six days with Elvis's bass player�
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors++L.A.+Woman+full+album"> <img src="img/covers/The Doors - L.A. Woman.jpg" alt="cover" height="306"/></a>
 ### 3 | "Blue Valentine" — Tom Waits  
-_“Howe's best record”_  
+_“Waits at the start of his transformation”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits++Blue+Valentine+full+album"> <img src="img/covers/Tom Waits - Blue Valentine.jpg" alt="cover" height="306"/></a>
 ### 4 | "Sound of Silver" — LCD Soundsystem  
@@ -59,7 +59,7 @@ _“They sound fresh even when rapping about pagers”_
 ### 12 | "!!Destroy-Oh-Boy!!" — New Bomb Turks  
 _“High octane punk 'n' roll”_  
   
-<a target="_blank" href="https://www.youtube.com/results?search_query=New+Bomb+Turks++!!DestroyOhBoy!!+full+album"> <img src="img/covers/New Bomb Turks - !!Destroy-Oh-Boy!!.jpg" alt="cover" height="306"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=New+Bomb+Turks++!!DestroyOhBoy!!+full+album"> <img src="img/covers/New Bomb Turks - Destroy-Oh-Boy.jpg" alt="cover" height="306"/></a>
 ### 13 | "Unknown Pleasures" — Joy Division  
 _“Always better than you remember”_  
   
@@ -105,7 +105,7 @@ _“Having no bass player can make your music more exciting”_
   
 <a target="_blank" href="https://youtu.be/8iwk7_O97Pw?list=PLaeyhQtn9sJxmrSPAMmmLd4H35jAmFcF1"><img src="img/covers/Dicky B. Hardy - I Whistle - You Dance.jpg" alt="cover" height="306"/></a>
 ### 24 | "Smash" — The Offspring  
-_“Best-selling independent label album of all time”_  
+_“Best-selling independent album of all time”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Offspring++Smash+full+album"> <img src="img/covers/The Offspring - Smash.jpg" alt="cover" height="306"/></a>
 ### 25 | "Run the Jewels 2" — Run the Jewels  
@@ -129,9 +129,9 @@ _“High on life”_
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits++Franks+Wild+Years+full+album"> <img src="img/covers/Tom Waits - Franks Wild Years.jpg" alt="cover" height="306"/></a>
 ### 30 | "Are We Not Men? We Are Devo!" — Devo  
-_“Wasted potential, but legendary material”_  
+_“Too much of Brian Eno's ideas were rejected”_  
   
-<a target="_blank" href="https://www.youtube.com/results?search_query=Devo++Are+We+Not+Men?+We+Are+Devo!+full+album"> <img src="img/covers/Devo - Are We Not Men? We Are Devo!.jpg" alt="cover" height="306"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Devo++Are+We+Not+Men?+We+Are+Devo!+full+album"> <img src="img/covers/Devo - Are We Not Men We Are Devo.jpg" alt="cover" height="306"/></a>
 ### 31 | "Surfer Rosa" — Pixies  
 _“Drum room mics were delayed for 20 milliseconds”_  
   
@@ -141,19 +141,19 @@ _“Their least annoying record”_
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=NoMeansNo++One+full+album"> <img src="img/covers/NoMeansNo - One.jpg" alt="cover" height="306"/></a>
 ### 33 | "Stereopathetic Soulmanure" — Beck  
-_“Proper lo-fi americana trash”_  
+_“Proper lo-fi/trash Americana”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Beck++Stereopathetic+Soulmanure+full+album"> <img src="img/covers/Beck - Stereopathetic Soulmanure.jpg" alt="cover" height="306"/></a>
 ### 34 | "Clandestino" — Manu Chao  
-_“Should have electronic beats, but computer bug erased them”_  
+_“Electronic beats got lost during production”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Manu+Chao++Clandestino+full+album"> <img src="img/covers/Manu Chao - Clandestino.jpg" alt="cover" height="306"/></a>
 ### 35 | "Illmatic" — Nas  
-_“See cover”_  
+_“This”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nas++Illmatic+full+album"> <img src="img/covers/Nas - Illmatic.jpg" alt="cover" height="306"/></a>
 ### 36 | "Nemesis Divina" — Satyricon  
-_“Great fusion of garage and studio production sounds”_  
+_“Great fusion of garage and studio production”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divina+full+album"> <img src="img/covers/Satyricon - Nemesis Divina.jpg" alt="cover" height="306"/></a>
 ### 37 | "Repeater" — Fugazi  

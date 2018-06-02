@@ -141,7 +141,8 @@ def getSlogan(albumName, albumData):
 
 
 def getCover(albumName, albumData):
-    imageLink = f'img/covers/{albumName}.jpg' #getImageLink(albumName, albumData)
+    image_name = albumName.replace('?', '').replace('!', '')
+    imageLink = f'img/covers/{image_name}.jpg' #getImageLink(albumName, albumData)
     if imageLink is None:
         return
     out = getYouTubeLink(albumName)
@@ -189,7 +190,7 @@ def generate_release_dates_chart(albumData):
     x = yearRange
     plt.bar(x, y, color="blue")
 
-    plt.savefig('year-distribution.png')
+    plt.savefig('year-distribution.png', transparent=True)
 
 
 def getYears(albumData):

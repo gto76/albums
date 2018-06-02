@@ -3,8 +3,12 @@
     { 
       "name": "Fugazi - Repeater",
       "year": 1990,
+      "month": 4,
+      "day": 19,
       "image": "http://cps-static.rovicorp.com/3/JPG_500/MI0000/015/MI0000015663.jpg?partner=allrovi.com",
-      "producer": "Ted Niceley",
+      "producer": ["Fugazi", "Ted Niceley"],
+      "length": "35:01, 42:29 (w/ 3 Songs)", 
+      "label": "Dischord",
       "studio": "Inner Ear Studios",
       "lat": 38.8439,
       "long": -77.0895,
@@ -18,7 +22,7 @@
       "studio": "Waterfall Studio",
       "lat": 59.9197057,
       "long": 10.7439582,
-      "slogan": "Great fusion of garage and studio production sounds"
+      "slogan": "Great fusion of garage and studio production"
     },
     { 
       "name": "Nas - Illmatic",
@@ -26,7 +30,7 @@
       "image": "https://img.discogs.com/EqGQ13tfpuZ7yBqtaFER7hbIxTw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-219517-1396284346-7382.jpeg.jpg",
       "lat": 40.7127, 
       "long": -74.0059,
-      "slogan": "See cover"
+      "slogan": "This"
     },
     { 
       "name": "Manu Chao - Clandestino",
@@ -36,7 +40,7 @@
       "studio": "Studio Koogar Ferber",
       "lat": 48.8673983,
       "long": 2.4081315,
-      "slogan": "Should have electronic beats, but computer bug erased them"
+      "slogan": "Electronic beats got lost during production"
     },
     { 
       "name": "NoMeansNo - One",
@@ -56,7 +60,7 @@
       "studio": "",
       "lat": 34.0201796,
       "long": -118.6926069,
-      "slogan": "Proper lo-fi americana trash"
+      "slogan": "Proper lo-fi/trash Americana"
     },
     { 
       "name": "Pixies - Surfer Rosa",
@@ -76,7 +80,7 @@
       "studio": "Conny Plank Studio",
       "lat": 50.855223,
       "long": 7.276962,
-      "slogan": "Wasted potential, but legendary material"
+      "slogan": "Too much of Brian Eno's ideas were rejected"
     },
     { 
       "name": "Tom Waits - Franks Wild Years",
@@ -137,7 +141,7 @@
       "studio": "Track Record",
       "lat": 34.1739,
       "long": -118.379,
-      "slogan": "Best-selling independent label album of all time"
+      "slogan": "Best-selling independent album of all time"
     },
     { 
       "name": "Beck - Midnite Vultures",
@@ -333,7 +337,7 @@
       "studio": "Filmways/Heider Recording",
       "lat": 37.783333,
       "long": -122.416667,
-      "slogan": "Howe's best record"
+      "slogan": "Waits at the start of his transformation"
     },
     { 
       "name": "The Doors - L.A. Woman",
