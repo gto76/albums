@@ -52,28 +52,29 @@ def main():
 def generate_md_file(readme, albumData, listOfAlbums, noOfAlbums):
     out = str(noOfAlbums) + " " + getText(readme)
     out += generateList(listOfAlbums, albumData)
+    out += '<hr>'
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
-        out += "\nRelease Dates\n------\n![yearly graph](year-distribution.png)"
+        out += "\nRelease Date — Year\n------\n![yearly graph](year-distribution.png)"
 
     if DRAW_HEATMAP:
-        out += "\nStudio Locations\n------\n![heatmap](heatmap.png)"
+        out += "\nStudio Location\n------\n![heatmap](heatmap.png)"
 
     return out
 
 
 def generate_html_file(albumData, listOfAlbums, noOfAlbums):
     out = ''.join(getFileContents(HTML_TOP))
-
     out += str(noOfAlbums) + " " + '\n'.join(getFileContents(HTML_TEXT))
     out += generate_html_list(listOfAlbums, albumData)
+    out += '<br><br><br><br><hr>'
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
-        out += '<h2><a href="#release-dates" name="release-dates">#</a>Release Dates</h2>\n'
+        out += '<h2><a href="#release-dates" name="release-dates">#</a>Release Date — Year</h2>\n'
         out += '<img src="year-distribution.png" alt="Release dates" width="920"/>\n'
 
     if DRAW_HEATMAP:
-        out += '<h2><a href="#studio-locations" name="studio-locations">#</a>Studio Locations</h2>\n'
+        out += '<h2><a href="#studio-locations" name="studio-locations">#</a>Studio Location</h2>\n'
         out += '<img src="heatmap.png" alt="Studio Locations" width="920"/>\n'
 
     return out + ''.join(getFileContents(HTML_BOTTOM))
@@ -180,17 +181,36 @@ def generate_release_dates_chart(albumData):
     albumsPerYear = getAlbumsPerYear(listOfYears)
     yearRange = getYearRange(listOfYears)
 
-    fig_size = plt.rcParams["figure.figsize"]
+    set_plt_size(plt, width=22, height=8, font_size=18)
+
+    # fig_size = plt.rcParams["figure.figsize"]
     # Set figure width to 12 and height to 9
-    fig_size[0] = 20
-    fig_size[1] = 6
-    plt.rcParams["figure.figsize"] = fig_size
+    # fig_size[0] = 20
+    # fig_size[1] = 6
+    # plt.rcParams["figure.figsize"] = fig_size
+
+    x_ticks = [listOfYears[0]-1] + yearRange + [listOfYears[-1]+1]
+    x_ticks = [a for a in x_ticks if a % 2 == 0]
+    plt.xticks(x_ticks, [get_year_xlabel(a) for a in x_ticks])
 
     y = albumsPerYear
     x = yearRange
     plt.bar(x, y, color="blue")
 
     plt.savefig('year-distribution.png', transparent=True)
+
+
+def set_plt_size(plt, width, height, font_size):
+    fig_size = plt.rcParams["figure.figsize"]
+    fig_size[0] = width
+    fig_size[1] = height
+    plt.rcParams["figure.figsize"] = fig_size
+    plt.rcParams.update({'font.size': font_size})
+
+
+def get_year_xlabel(value):
+    value = str(value)[-2:]
+    return f"'{value}"
 
 
 def getYears(albumData):

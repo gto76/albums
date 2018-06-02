@@ -160,10 +160,10 @@ _“Great fusion of garage and studio production”_
 _“Ultimate day record”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="img/covers/Fugazi - Repeater.jpg" alt="cover" height="306"/></a>
-
-Release Dates
+<hr>
+Release Date — Year
 ------
 ![yearly graph](year-distribution.png)
-Studio Locations
+Studio Location
 ------
 ![heatmap](heatmap.png)
