@@ -99,7 +99,9 @@ def generateList(listOfAlbums, albumData):
     out = ""
     counter = count(1) #len(listOfAlbums)
     for albumName in listOfAlbums:
-        formatedName = albumName.replace(" - ", ", '", 1) + "'"
+        artist, album = albumName.split(' - ', maxsplit=1)
+        formatedName = f'"{album}" — {artist}'
+        # formatedName = albumName.replace(" - ", ", '", 1) + "'"
         out += "### " + str(next(counter)) + " | " + formatedName + "  \n"
         slogan = getSlogan(albumName, albumData)
         if slogan:
@@ -115,7 +117,9 @@ def generate_html_list(listOfAlbums, albumData):
     out = ""
     counter = count(1) #len(listOfAlbums)
     for albumName in listOfAlbums:
-        formatedName = albumName.replace(" - ", ", '", 1) + "'"
+        artist, album = albumName.split(' - ', maxsplit=1)
+        formatedName = f'"{album}" — {artist}'
+        # formatedName = albumName.replace(" - ", ", '", 1) + "'"
         album_name_abr = albumName.replace(' ', '')
         start = '<h2><a href="#'+album_name_abr+'" name="' \
                 + album_name_abr+'">#</a>'
