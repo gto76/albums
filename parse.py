@@ -6,6 +6,7 @@
 #   pip3 install pillow
 
 import json
+from itertools import count
 import math
 import re
 import sys
@@ -83,7 +84,7 @@ def getListOfAlbums(readme):
     for line in readme:
         if line.startswith('####'):
             listOfAlbums.append(line.strip("####").replace('*', '').strip())
-    return listOfAlbums
+    return list(reversed(listOfAlbums))
 
 
 def getText(readme):
@@ -96,10 +97,10 @@ def getText(readme):
 
 def generateList(listOfAlbums, albumData):
     out = ""
-    counter = len(listOfAlbums)
+    counter = count(1) #len(listOfAlbums)
     for albumName in listOfAlbums:
         formatedName = albumName.replace(" - ", ", '", 1) + "'"
-        out += "### " + str(counter) + " | " + formatedName + "  \n"
+        out += "### " + str(next(counter)) + " | " + formatedName + "  \n"
         slogan = getSlogan(albumName, albumData)
         if slogan:
             out += '_“'+slogan+'”_  \n' 
@@ -107,26 +108,24 @@ def generateList(listOfAlbums, albumData):
         cover = getCover(albumName, albumData)
         if cover:
             out += cover
-        counter -= 1
     return out
 
 
 def generate_html_list(listOfAlbums, albumData):
     out = ""
-    counter = len(listOfAlbums)
+    counter = count(1) #len(listOfAlbums)
     for albumName in listOfAlbums:
         formatedName = albumName.replace(" - ", ", '", 1) + "'"
         album_name_abr = albumName.replace(' ', '')
         start = '<h2><a href="#'+album_name_abr+'" name="' \
                 + album_name_abr+'">#</a>'
-        out += start + str(counter) + " | " + formatedName + "</h2>\n"
+        out += start + str(next(counter)) + " | " + formatedName + "</h2>\n"
         slogan = getSlogan(albumName, albumData)
         if slogan:
             out += '<i>' + slogan + '</i><br><br>\n'
         cover = getCover(albumName, albumData)
         if cover:
             out += cover
-        counter -= 1
     return out
 
 
