@@ -161,6 +161,7 @@ _“Ultimate day record”_
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="img/covers/Fugazi - Repeater.jpg" alt="cover" height="306"/></a>
 <hr>
+
 Release Date — Year
 ------
 ![yearly graph](year-distribution.png)

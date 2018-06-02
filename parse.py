@@ -52,7 +52,7 @@ def main():
 def generate_md_file(readme, albumData, listOfAlbums, noOfAlbums):
     out = str(noOfAlbums) + " " + getText(readme)
     out += generateList(listOfAlbums, albumData)
-    out += '<hr>'
+    out += '<hr>\n'
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
         out += "\nRelease Date — Year\n------\n![yearly graph](year-distribution.png)"
