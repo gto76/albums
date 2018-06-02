@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/local/bin/python3
 #
 # Usage: parse.py 
 # 
@@ -137,7 +137,7 @@ def getSlogan(albumName, albumData):
 
 
 def getCover(albumName, albumData):
-    imageLink = getImageLink(albumName, albumData)
+    imageLink = f'img/covers/{albumName}.jpg' #getImageLink(albumName, albumData)
     if imageLink is None:
         return
     out = getYouTubeLink(albumName)
