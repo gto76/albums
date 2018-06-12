@@ -3,6 +3,8 @@
 # Usage: .py 
 # 
 
+import json
+import os
 import re
 import sys
 import urllib.request
@@ -14,22 +16,38 @@ MSG = 'Wikipedia does not have an article with this exact name'
 
 
 def main():
-    # Smash_(The_Offspring_album)
-    album_name = 'https://en.wikipedia.org/wiki/Smash_(The_Offspring_album)'
+    albums = read_json_file('albumdata.json')
+    for album in albums['albums']:
+        scrape_album(album['name'])
+
+
+def scrape_album(name):
+    print(name)
+    band, album = name.split(' - ', maxsplit=1)
+    options = [f'{album}_({band}_album)', f'{album}_(album)', album]
+    for option in options:
+        print(option)
+        html = get_html(BASE + option)
+        if html:
+            print(option)
+            break
+
+
+def get_html(url):
     try:
-        html = scrape(album_name)
+        html = scrape(url)
         html = str(html.read())
     except urllib.error.HTTPError:
-        print('No page')
+        return None
     
 
 ###
 ##  UTIL
 #
 
-def read_file(filename):
+def read_json_file(filename):
     with open(filename, encoding='utf-8') as file:
-        return file.readlines()
+        return json.load(file)
 
 
 def scrape(url):
