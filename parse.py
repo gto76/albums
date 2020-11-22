@@ -157,6 +157,9 @@ def getYouTubeLink(albumName):
           + albumName.replace('-', '').replace(' ', '+') + '+full+album"> '
     if 'Dicky B. Hardy' in albumName:
         out = '<a target="_blank" href="https://youtu.be/8iwk7_O97Pw?list=PLaeyhQtn9sJxmrSPAMmmLd4H35jAmFcF1">'
+    if 'Matter' in albumName:
+        out = '<a target="_blank" href="https://www.youtube.com/results?search_query=' \
+          + albumName.replace('-', '').replace(' ', '+') + '"> ' 
     return out
 
 
@@ -319,7 +322,7 @@ def generateHeatMap(albumData, width, height):
         row = []
         for x in range(0, width):
             xx = transposeX(x, width)
-            yy = transposeY(y, height)
+            yy = transposeY(y-2, height)
             heat = getHeat(xx, yy, albumData)
             row.append(heat)
         out.append(row)

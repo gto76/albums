@@ -1,4 +1,4 @@
-37 Greatest Albums of All Time
+38 Greatest Albums of All Time
 ===========================
 Albums are rated by how well they sound **when listened to from beginning to the end without interruptions**. That's the reason why there is no <i>Nevermind</i> by Nirvana or <i>Rain Dogs</i> by Tom Waits on the list, since they contain a few songs that ruin the flow of the record. Live albums and compilations are also not included.
 
@@ -152,11 +152,15 @@ _“Electronic beats got lost during production”_
 _“This”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nas++Illmatic+full+album"> <img src="img/covers/Nas - Illmatic.jpg" alt="cover" height="306"/></a>
-### 36 | "Nemesis Divina" — Satyricon  
+### 36 | "Amphibios" — Matter  
+_“A fish called Wanda”_  
+  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Matter++Amphibios"> <img src="img/covers/Matter - Amphibios.jpg" alt="cover" height="306"/></a>
+### 37 | "Nemesis Divina" — Satyricon  
 _“Great fusion of garage and studio production”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Satyricon++Nemesis+Divina+full+album"> <img src="img/covers/Satyricon - Nemesis Divina.jpg" alt="cover" height="306"/></a>
-### 37 | "Repeater" — Fugazi  
+### 38 | "Repeater" — Fugazi  
 _“Ultimate day record”_  
   
 <a target="_blank" href="https://www.youtube.com/results?search_query=Fugazi++Repeater+full+album"> <img src="img/covers/Fugazi - Repeater.jpg" alt="cover" height="306"/></a>
